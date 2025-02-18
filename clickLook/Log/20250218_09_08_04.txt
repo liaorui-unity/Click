@@ -1,0 +1,53 @@
+﻿Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]OnChannelConnect:0 frame:0
+[info]OnChannelConnect:0 frame:0
+连接成功
+开始同步服务端数据
+messge:{"group":"","name":"1810124830","ip":"10.0.8.3","time":17396139002.0}
+netPlayer.messge{"group":"","name":"1810124830","ip":"10.0.8.3","time":17396139002.0}
+messge:{"group":"","name":"1111887031","ip":"192.168.0.157","time":17398408849.0}
+netPlayer.messge{"group":"","name":"1111887031","ip":"192.168.0.157","time":17398408849.0}
+messge:{"group":"","name":"1807819521","ip":"192.168.0.157","time":17398408887.0}
+netPlayer.messge{"group":"","name":"1807819521","ip":"192.168.0.157","time":17398408887.0}
+接收到的数据转成:32095
+接收到的数据转成:32154
+接收到的数据转成:32316
+接收到的数据转成:32322
+接收到的数据转成:32268
+接收到的数据转成:32300
+接收到的数据转成:32355
+接收到的数据转成:32251
+接收到的数据转成:32323
+接收到的数据转成:32352
+接收到的数据转成:32227
+接收到的数据转成:32186
+接收到的数据转成:32402
+接收到的数据转成:32420
+接收到的数据转成:32346
+接收到的数据转成:32397
+接收到的数据转成:32455
+接收到的数据转成:32326
+接收到的数据转成:32430
+接收到的数据转成:32442
+point:394.7329,373.2671,0
+接收到的数据转成:32361
+接收到的数据转成:34777
+point:189.6149,-308.8696,0
+接收到的数据转成:34754
+接收到的数据转成:35175
+接收到的数据转成:35117
+接收到的数据转成:35158
+接收到的数据转成:35216
+接收到的数据转成:35095
+接收到的数据转成:35199
+接收到的数据转成:35217
+接收到的数据转成:35007
+接收到的数据转成:35023
+接收到的数据转成:35181
+接收到的数据转成:35011
+OnApplicationQuit: stopped client
+TelepathyTransport Shutdown()

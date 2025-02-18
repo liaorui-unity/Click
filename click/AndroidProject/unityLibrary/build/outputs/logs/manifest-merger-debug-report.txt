@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:2:1-72:12
+	package
+		INJECTED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.SYSTEM_OVERLAY_WINDOW
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:6:22-77
+uses-feature#0x00030000
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:8:5-54
+	android:glEsVersion
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:8:19-51
+uses-permission#android.permission.INTERNET
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:10:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:13:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:16:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:19:9-72
+application
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:22:5-70:19
+	android:theme
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:22:18-71
+service#com.unity3d.player.UnityService
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:23:9-26:47
+	android:enabled
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:25:13-35
+	android:exported
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:24:13-59
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:28:9-50:20
+	android:screenOrientation
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:35:13-49
+	android:process
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:33:13-42
+	android:launchMode
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:32:13-44
+	android:hardwareAccelerated
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:31:13-48
+	android:resizeableActivity
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:34:13-47
+	android:configChanges
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:30:13-194
+	android:theme
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:36:13-66
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:29:13-66
+meta-data#unityplayer.UnityActivity
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:44:13-46:40
+	android:value
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:46:17-37
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:45:17-57
+meta-data#android.notch_support
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:47:13-49:40
+	android:value
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:49:17-37
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:48:17-53
+meta-data#unity.splash-mode
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:52:9-54:33
+	android:value
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:54:13-30
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:53:13-45
+meta-data#unity.splash-enable
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:55:9-57:36
+	android:value
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:57:13-33
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:56:13-47
+meta-data#unity.launch-fullscreen
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:58:9-60:36
+	android:value
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:60:13-33
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:59:13-51
+meta-data#unity.allow-resizable-window
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:61:9-63:37
+	android:value
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:63:13-34
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:62:13-56
+meta-data#notch.config
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:64:9-66:50
+	android:value
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:66:13-47
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:65:13-40
+meta-data#unity.build-id
+ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:67:9-69:68
+	android:value
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:69:13-65
+	android:name
+		ADDED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:68:13-42
+uses-sdk
+INJECTED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml

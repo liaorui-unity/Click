@@ -1,0 +1,131 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk android:minSdkVersion="19" />
+7
+8    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+8-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:5:5-78
+8-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:5:22-75
+9    <uses-permission android:name="android.permission.SYSTEM_OVERLAY_WINDOW" />
+9-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:6:5-80
+9-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:6:22-77
+10
+11    <uses-feature android:glEsVersion="0x00030000" />
+11-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:8:5-54
+11-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:8:19-51
+12
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:10:5-67
+13-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:10:22-64
+14
+15    <uses-feature
+15-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:12:5-14:36
+16        android:name="android.hardware.touchscreen"
+16-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:13:9-52
+17        android:required="false" />
+17-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:14:9-33
+18    <uses-feature
+18-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:15:5-17:36
+19        android:name="android.hardware.touchscreen.multitouch"
+19-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:16:9-63
+20        android:required="false" />
+20-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:17:9-33
+21    <uses-feature
+21-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:18:5-20:36
+22        android:name="android.hardware.touchscreen.multitouch.distinct"
+22-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:19:9-72
+23        android:required="false" />
+23-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:20:9-33
+24
+25    <application android:theme="@style/UnityThemeSelector.Translucent" >
+25-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:22:5-70:19
+25-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:22:18-71
+26        <service
+26-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:23:9-26:47
+27            android:name="com.unity3d.player.UnityService"
+27-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:24:13-59
+28            android:enabled="true"
+28-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:25:13-35
+29            android:exported="true" />
+29-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:26:13-36
+30
+31        <activity
+31-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:28:9-50:20
+32            android:name="com.unity3d.player.UnityPlayerActivity"
+32-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:29:13-66
+33            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+33-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:30:13-194
+34            android:hardwareAccelerated="false"
+34-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:31:13-48
+35            android:launchMode="singleTask"
+35-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:32:13-44
+36            android:process=":raadidcard"
+36-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:33:13-42
+37            android:resizeableActivity="false"
+37-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:34:13-47
+38            android:screenOrientation="fullUser"
+38-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:35:13-49
+39            android:theme="@style/UnityThemeSelector.Translucent" >
+39-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:36:13-66
+40
+41            <!--
+42      <intent-filter>
+43        <action android:name="android.intent.action.MAIN" />
+44        <category android:name="android.intent.category.LAUNCHER" />
+45      </intent-filter>
+46            -->
+47            <meta-data
+47-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:44:13-46:40
+48                android:name="unityplayer.UnityActivity"
+48-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:45:17-57
+49                android:value="true" />
+49-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:46:17-37
+50            <meta-data
+50-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:47:13-49:40
+51                android:name="android.notch_support"
+51-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:48:17-53
+52                android:value="true" />
+52-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:49:17-37
+53        </activity>
+54
+55        <meta-data
+55-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:52:9-54:33
+56            android:name="unity.splash-mode"
+56-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:53:13-45
+57            android:value="0" />
+57-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:54:13-30
+58        <meta-data
+58-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:55:9-57:36
+59            android:name="unity.splash-enable"
+59-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:56:13-47
+60            android:value="True" />
+60-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:57:13-33
+61        <meta-data
+61-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:58:9-60:36
+62            android:name="unity.launch-fullscreen"
+62-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:59:13-51
+63            android:value="True" />
+63-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:60:13-33
+64        <meta-data
+64-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:61:9-63:37
+65            android:name="unity.allow-resizable-window"
+65-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:62:13-56
+66            android:value="False" />
+66-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:63:13-34
+67        <meta-data
+67-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:64:9-66:50
+68            android:name="notch.config"
+68-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:65:13-40
+69            android:value="portrait|landscape" />
+69-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:66:13-47
+70        <meta-data
+70-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:67:9-69:68
+71            android:name="unity.build-id"
+71-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:68:13-42
+72            android:value="6032039c-42e4-49ed-8e90-3e8704478c25" />
+72-->D:\Project\click\AndroidProject\unityLibrary\src\main\AndroidManifest.xml:69:13-65
+73    </application>
+74
+75</manifest>
