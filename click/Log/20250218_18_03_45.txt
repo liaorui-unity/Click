@@ -1,0 +1,87 @@
+﻿Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]OnChannelConnect:0 frame:0
+[info]OnChannelConnect:0 frame:0
+连接成功
+[info]发送协议:1002 frame:0
+[info]发送协议:1002 frame:0
+[info]收到协议:7 frame:0
+[info]收到协议:7 frame:0
+<color=red>[error]</color>PacketPools::AddPacketInfo - same id is register:1002 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.PacketPools:AddPacketInfo (fs.PacketInfo) (at Assets/Network/packet/PacketPools.cs:124)
+fs.PacketPools:ExtractAttribute (System.Reflection.Assembly) (at Assets/Network/packet/PacketPools.cs:162)
+fs.PacketPools:GetPacketInfo (uint16) (at Assets/Network/packet/PacketPools.cs:135)
+fs.PacketPools:Get (uint16) (at Assets/Network/packet/PacketPools.cs:59)
+fs.TCPNetBase:AddPacket (long,uint16,fs.ByteArray) (at Assets/Network/net/TCPNetBase.cs:61)
+fs.NetChannel:ParsePacket (System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Network/channel/NetChannel.cs:84)
+fs.NetChannel:HandleReceive (byte[],int,System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Network/channel/NetChannel.cs:56)
+fs.TCPNetConnecter:OnMessageReveived (long,byte[],int) (at Assets/Network/net/TCPNetConnecter.cs:110)
+fs.TCPClientSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>PacketPools::AddPacketInfo - same id is register:1002 frame:0
+<color=red>[error]</color>PacketPools::AddPacketInfo - same id is register:1001 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.PacketPools:AddPacketInfo (fs.PacketInfo) (at Assets/Network/packet/PacketPools.cs:124)
+fs.PacketPools:ExtractAttribute (System.Reflection.Assembly) (at Assets/Network/packet/PacketPools.cs:162)
+fs.PacketPools:GetPacketInfo (uint16) (at Assets/Network/packet/PacketPools.cs:135)
+fs.PacketPools:Get (uint16) (at Assets/Network/packet/PacketPools.cs:59)
+fs.TCPNetBase:AddPacket (long,uint16,fs.ByteArray) (at Assets/Network/net/TCPNetBase.cs:61)
+fs.NetChannel:ParsePacket (System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Network/channel/NetChannel.cs:84)
+fs.NetChannel:HandleReceive (byte[],int,System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Network/channel/NetChannel.cs:56)
+fs.TCPNetConnecter:OnMessageReveived (long,byte[],int) (at Assets/Network/net/TCPNetConnecter.cs:110)
+fs.TCPClientSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>PacketPools::AddPacketInfo - same id is register:1001 frame:0
+<color=red>[error]</color>PacketPools - 没有找到协议对应的类信息，请在类{0}添加特性PacketAttribute frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.PacketPools:Get (uint16) (at Assets/Network/packet/PacketPools.cs:62)
+fs.TCPNetBase:AddPacket (long,uint16,fs.ByteArray) (at Assets/Network/net/TCPNetBase.cs:61)
+fs.NetChannel:ParsePacket (System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Network/channel/NetChannel.cs:84)
+fs.NetChannel:HandleReceive (byte[],int,System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Network/channel/NetChannel.cs:56)
+fs.TCPNetConnecter:OnMessageReveived (long,byte[],int) (at Assets/Network/net/TCPNetConnecter.cs:110)
+fs.TCPClientSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>PacketPools - 没有找到协议对应的类信息，请在类{0}添加特性PacketAttribute frame:0
+<color=red>[error]</color>System.NullReferenceException: Object reference not set to an instance of an object
+  at fs.TCPNetBase.AddPacket (System.Int64 conn_idx, System.UInt16 header, fs.ByteArray data) [0x0001d] in E:\Project\clicker\click\Assets\Network\net\TCPNetBase.cs:62 
+  at fs.NetChannel.ParsePacket (System.Action`3[T1,T2,T3] callback) [0x00092] in E:\Project\clicker\click\Assets\Network\channel\NetChannel.cs:84 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00016] in E:\Project\clicker\click\Assets\Network\channel\NetChannel.cs:56 
+  at fs.TCPNetConnecter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00015] in E:\Project\clicker\click\Assets\Network\net\TCPNetConnecter.cs:110 
+  at fs.TCPClientSocket.OnReceive (System.IAsyncResult ar) [0x00063] in <3f81697393634fda8787d962047b2c04>:0  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPClientSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>System.NullReferenceException: Object reference not set to an instance of an object
+  at fs.TCPNetBase.AddPacket (System.Int64 conn_idx, System.UInt16 header, fs.ByteArray data) [0x0001d] in E:\Project\clicker\click\Assets\Network\net\TCPNetBase.cs:62 
+  at fs.NetChannel.ParsePacket (System.Action`3[T1,T2,T3] callback) [0x00092] in E:\Project\clicker\click\Assets\Network\channel\NetChannel.cs:84 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00016] in E:\Project\clicker\click\Assets\Network\channel\NetChannel.cs:56 
+  at fs.TCPNetConnecter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00015] in E:\Project\clicker\click\Assets\Network\net\TCPNetConnecter.cs:110 
+  at fs.TCPClientSocket.OnReceive (System.IAsyncResult ar) [0x00063] in <3f81697393634fda8787d962047b2c04>:0  frame:0
+[info]TCPClientSocket 关闭 frame:0
+[info]TCPClientSocket 关闭 frame:0
+[info]OnChannelClose:0 frame:0
+[info]OnChannelClose:0 frame:0
+连接关闭
+开始同步服务端数据
+messge:{"group":"","name":"1810124830","ip":"10.0.8.3","time":17396139002.0}
+netPlayer.messge{"group":"","name":"1810124830","ip":"10.0.8.3","time":17396139002.0}
+messge:{"group":"","name":"1237988183","ip":"192.168.0.157","time":17398730258.0}
+netPlayer.messge{"group":"","name":"1237988183","ip":"192.168.0.157","time":17398730258.0}
+发送截图数据:32095
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+OnApplicationQuit: stopped client
+TelepathyTransport Shutdown()

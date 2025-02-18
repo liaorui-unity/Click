@@ -1,0 +1,1382 @@
+﻿Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]OnChannelConnect:0 frame:0
+[info]OnChannelConnect:0 frame:0
+连接成功
+[info]发送协议:1002 frame:0
+[info]发送协议:1002 frame:0
+开始同步服务端数据
+messge:{"group":"","name":"1810124830","ip":"10.0.8.3","time":17396139002.0}
+netPlayer.messge{"group":"","name":"1810124830","ip":"10.0.8.3","time":17396139002.0}
+messge:{"group":"","name":"1624585902","ip":"192.168.0.157","time":17398724606.0}
+netPlayer.messge{"group":"","name":"1624585902","ip":"192.168.0.157","time":17398724606.0}
+发送截图数据:32095
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+[info]收到协议:7 frame:0
+[info]收到协议:7 frame:0
+<color=red>[error]</color>PacketPools::AddPacketInfo - same id is register:1002 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.PacketPools:AddPacketInfo (fs.PacketInfo) (at Assets/Network/packet/PacketPools.cs:124)
+fs.PacketPools:ExtractAttribute (System.Reflection.Assembly) (at Assets/Network/packet/PacketPools.cs:162)
+fs.PacketPools:GetPacketInfo (uint16) (at Assets/Network/packet/PacketPools.cs:135)
+fs.PacketPools:Get (uint16) (at Assets/Network/packet/PacketPools.cs:59)
+fs.TCPNetBase:AddPacket (long,uint16,fs.ByteArray) (at Assets/Network/net/TCPNetBase.cs:61)
+fs.NetChannel:ParsePacket (System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Network/channel/NetChannel.cs:84)
+fs.NetChannel:HandleReceive (byte[],int,System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Network/channel/NetChannel.cs:56)
+fs.TCPNetConnecter:OnMessageReveived (long,byte[],int) (at Assets/Network/net/TCPNetConnecter.cs:110)
+fs.TCPClientSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>PacketPools::AddPacketInfo - same id is register:1002 frame:0
+<color=red>[error]</color>PacketPools::AddPacketInfo - same id is register:1001 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.PacketPools:AddPacketInfo (fs.PacketInfo) (at Assets/Network/packet/PacketPools.cs:124)
+fs.PacketPools:ExtractAttribute (System.Reflection.Assembly) (at Assets/Network/packet/PacketPools.cs:162)
+fs.PacketPools:GetPacketInfo (uint16) (at Assets/Network/packet/PacketPools.cs:135)
+fs.PacketPools:Get (uint16) (at Assets/Network/packet/PacketPools.cs:59)
+fs.TCPNetBase:AddPacket (long,uint16,fs.ByteArray) (at Assets/Network/net/TCPNetBase.cs:61)
+fs.NetChannel:ParsePacket (System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Network/channel/NetChannel.cs:84)
+fs.NetChannel:HandleReceive (byte[],int,System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Network/channel/NetChannel.cs:56)
+fs.TCPNetConnecter:OnMessageReveived (long,byte[],int) (at Assets/Network/net/TCPNetConnecter.cs:110)
+fs.TCPClientSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>PacketPools::AddPacketInfo - same id is register:1001 frame:0
+<color=red>[error]</color>PacketPools - 没有找到协议对应的类信息，请在类{0}添加特性PacketAttribute frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.PacketPools:Get (uint16) (at Assets/Network/packet/PacketPools.cs:62)
+fs.TCPNetBase:AddPacket (long,uint16,fs.ByteArray) (at Assets/Network/net/TCPNetBase.cs:61)
+fs.NetChannel:ParsePacket (System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Network/channel/NetChannel.cs:84)
+fs.NetChannel:HandleReceive (byte[],int,System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Network/channel/NetChannel.cs:56)
+fs.TCPNetConnecter:OnMessageReveived (long,byte[],int) (at Assets/Network/net/TCPNetConnecter.cs:110)
+fs.TCPClientSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>PacketPools - 没有找到协议对应的类信息，请在类{0}添加特性PacketAttribute frame:0
+<color=red>[error]</color>System.NullReferenceException: Object reference not set to an instance of an object
+  at fs.TCPNetBase.AddPacket (System.Int64 conn_idx, System.UInt16 header, fs.ByteArray data) [0x0001d] in E:\Project\clicker\click\Assets\Network\net\TCPNetBase.cs:62 
+  at fs.NetChannel.ParsePacket (System.Action`3[T1,T2,T3] callback) [0x00092] in E:\Project\clicker\click\Assets\Network\channel\NetChannel.cs:84 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00016] in E:\Project\clicker\click\Assets\Network\channel\NetChannel.cs:56 
+  at fs.TCPNetConnecter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00015] in E:\Project\clicker\click\Assets\Network\net\TCPNetConnecter.cs:110 
+  at fs.TCPClientSocket.OnReceive (System.IAsyncResult ar) [0x00063] in <3f81697393634fda8787d962047b2c04>:0  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPClientSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>System.NullReferenceException: Object reference not set to an instance of an object
+  at fs.TCPNetBase.AddPacket (System.Int64 conn_idx, System.UInt16 header, fs.ByteArray data) [0x0001d] in E:\Project\clicker\click\Assets\Network\net\TCPNetBase.cs:62 
+  at fs.NetChannel.ParsePacket (System.Action`3[T1,T2,T3] callback) [0x00092] in E:\Project\clicker\click\Assets\Network\channel\NetChannel.cs:84 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00016] in E:\Project\clicker\click\Assets\Network\channel\NetChannel.cs:56 
+  at fs.TCPNetConnecter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00015] in E:\Project\clicker\click\Assets\Network\net\TCPNetConnecter.cs:110 
+  at fs.TCPClientSocket.OnReceive (System.IAsyncResult ar) [0x00063] in <3f81697393634fda8787d962047b2c04>:0  frame:0
+[info]TCPClientSocket 关闭 frame:0
+[info]TCPClientSocket 关闭 frame:0
+[info]OnChannelClose:0 frame:0
+[info]OnChannelClose:0 frame:0
+连接关闭
+发送截图数据:32154
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32316
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32322
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32268
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32300
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32355
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32251
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32323
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32352
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32227
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32186
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32402
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32420
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32346
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32397
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32455
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32326
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32430
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32442
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32361
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32374
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32352
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32542
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32480
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32516
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32579
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32455
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32550
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32567
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32366
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32384
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32533
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32375
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32490
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32530
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32592
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32473
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32568
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32585
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32337
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32336
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32496
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32512
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32304
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32500
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32535
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32425
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32530
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32538
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32366
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32361
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32527
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32546
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32475
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32363
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32580
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32464
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32549
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32578
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32217
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32183
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32392
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32411
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32355
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32388
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32433
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32322
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32415
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32435
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32231
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32184
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32397
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32424
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32334
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32398
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32449
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32325
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32429
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32448
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32420
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32397
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32411
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32602
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32539
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32582
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32638
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32503
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32614
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32629
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32443
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32420
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32614
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32447
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32568
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32600
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32650
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32536
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32638
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32654
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32395
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32350
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32556
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32569
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32365
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32550
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32591
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32468
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32577
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32595
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32439
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32395
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32596
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32621
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32539
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32431
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32641
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32531
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32619
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32645
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32348
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32365
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32324
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32536
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32477
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32508
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32567
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32461
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32544
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32563
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32427
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32380
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32417
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32612
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32536
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32590
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32641
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32520
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32621
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32639
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32365
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32375
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32356
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32549
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32472
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32522
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32580
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32457
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32557
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32574
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32570
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32589
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32565
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32569
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32685
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32729
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32777
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32669
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32758
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32774
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32524
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32517
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32508
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32702
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32494
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32679
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32722
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32609
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32720
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32724
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32565
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32554
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32548
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32746
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32661
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32562
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32770
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32661
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32748
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32765
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32368
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32392
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32543
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32339
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32496
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32534
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32584
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32467
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32559
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32579
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32446
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32394
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32609
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32453
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32556
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32610
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32656
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32524
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32641
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32659
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32574
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32574
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32553
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32569
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32680
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32731
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32775
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32650
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32757
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32774
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32384
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32410
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32563
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32380
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32507
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32553
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32597
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32487
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32586
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32606
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32531
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32533
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32688
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32534
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32509
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32701
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32737
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32615
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32722
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32745
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32585
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32570
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32739
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32593
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32685
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32581
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32783
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32666
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32760
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32790
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32303
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32335
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32486
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32497
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32283
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32477
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32518
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32427
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32507
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32525
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32391
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32342
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32544
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32575
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32374
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32544
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32598
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32470
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32577
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32593
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32514
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32511
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32499
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32693
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32498
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32670
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32718
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32597
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32703
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32712
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32529
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32538
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32687
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32527
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32521
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32691
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32741
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32624
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32720
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32741
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32334
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32339
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32489
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32516
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32303
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32497
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32535
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32430
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32532
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32540
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32522
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32514
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32679
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32702
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32506
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32517
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32723
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32612
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32706
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32733
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32353
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32381
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32517
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32544
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32474
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32329
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32577
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32474
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32551
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32565
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32440
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32385
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32605
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32623
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32545
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32441
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32650
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32524
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32632
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32647
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32565
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32577
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32555
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32746
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32672
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32572
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32779
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32652
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32755
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32764
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32583
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32595
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32740
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32590
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32688
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32589
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32795
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32675
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32775
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32786
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32529
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32530
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32675
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32707
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32509
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32529
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32735
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32616
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32714
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32727
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32391
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32401
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32555
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32568
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32496
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32380
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32595
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32480
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32579
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32585
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32395
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32423
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32576
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32580
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32521
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32548
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32367
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32505
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32589
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32611
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32468
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32418
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32632
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32652
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32576
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32617
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32468
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32557
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32659
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32680
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32604
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32603
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32586
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32767
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32708
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32743
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32602
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32675
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32781
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32799
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32607
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32620
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32767
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32607
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32731
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32771
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32614
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32705
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32796
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32819
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32574
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32570
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32726
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32750
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32541
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32729
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32571
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32657
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32754
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32778
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32610
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32591
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32760
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32783
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32710
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32595
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32611
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32704
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32789
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32813
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32292
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32331
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32471
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32484
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32427
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32474
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32515
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32270
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32502
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送截图数据:32515
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+Assets\Network\net\UDPLocalRecvManager.cs(158,17): warning CS0162: Unreachable code detected
+Assets\Network\net\UDPSendManager.cs(105,17): warning CS0162: Unreachable code detected
+Assets\Network\net\UDPRecvManager.cs(158,17): warning CS0162: Unreachable code detected
+Assets\Network\net\UDPLocalSendManager.cs(104,17): warning CS0162: Unreachable code detected
+Assets\Network\udpLocal\RadioReport.cs(236,26): warning CS0168: The variable 'e' is declared but never used
+Assets\Network\udpLocal\UDPRecv.cs(34,37): warning CS0067: The event 'UDPRecv.OnClose' is never used
+Assets\Network\udpLocal\UDPSend.cs(31,37): warning CS0067: The event 'UDPSend.OnClose' is never used
+Assets\Network\net\UDPLocalRecvManager.cs(42,22): warning CS0414: The field 'UDPLocalRecvManager.m_myself_receive' is assigned but its value is never used
+Assets\Network\net\UDPRecvManager.cs(43,22): warning CS0414: The field 'UDPRecvManager.m_myself_receive' is assigned but its value is never used
+Assets\Nets\Script\LANManager.cs(58,14): warning CS0414: The field 'LANManager.isFindHost' is assigned but its value is never used

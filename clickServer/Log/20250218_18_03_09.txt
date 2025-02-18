@@ -1,0 +1,140 @@
+﻿Server: Start port=7777
+Server: listening port=7777
+Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPServerSocket - Start frame:0
+[info]TCPServerSocket - Start frame:0
+开始同步服务端数据
+messge:{"group":"","name":"208818026","ip":"192.168.0.157","time":17398729890.0}
+netPlayer.messge{"group":"","name":"208818026","ip":"192.168.0.157","time":17398729890.0}
+[info]OnChannelAccept:1 frame:0
+[info]OnChannelAccept:1 frame:0
+连接成功
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+收到协议:1002
+接受成功
+[info]发送协议:7 frame:0
+[info]发送协议:7 frame:0
+[info]OnChannelClose:1 frame:0
+[info]OnChannelClose:1 frame:0
+连接关闭
+[info]OnChannelAccept:2 frame:0
+[info]OnChannelAccept:2 frame:0
+连接成功
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+收到协议:1002
+接受成功
+[info]发送协议:7 frame:0
+[info]发送协议:7 frame:0
+[info]OnChannelClose:2 frame:0
+[info]OnChannelClose:2 frame:0
+连接关闭
+[info]OnChannelAccept:3 frame:0
+[info]OnChannelAccept:3 frame:0
+连接成功
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+接受成功
+[info]发送协议:7 frame:0
+[info]发送协议:7 frame:0
+<color=red>[error]</color>System.NullReferenceException: Object reference not set to an instance of an object
+  at TexturePacket.Write (fs.ByteArray by) [0x0002d] in E:\Project\clicker\clickServer\Assets\Scripts\FunctionPackage.cs:55 
+  at fs.TCPNetAccepter.Send (System.Int64 conn_idx, fs.PacketBase packet) [0x00035] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:93 
+  at Host.OnRect (System.Int64 _, fs.PacketBase packet) [0x0000a] in E:\Project\clicker\clickServer\Assets\Scripts\Host.cs:36 
+  at fs.TCPNetBase.Update () [0x00019] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetBase.cs:49  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPNetBase:Update () (at Assets/Scripts/Plugins/Network/net/TCPNetBase.cs:53)
+fs.TCPNetAccepter:Update () (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:64)
+Host:Update () (at Assets/Scripts/Host.cs:77)
+
+<color=red>[error]</color>System.NullReferenceException: Object reference not set to an instance of an object
+  at TexturePacket.Write (fs.ByteArray by) [0x0002d] in E:\Project\clicker\clickServer\Assets\Scripts\FunctionPackage.cs:55 
+  at fs.TCPNetAccepter.Send (System.Int64 conn_idx, fs.PacketBase packet) [0x00035] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:93 
+  at Host.OnRect (System.Int64 _, fs.PacketBase packet) [0x0000a] in E:\Project\clicker\clickServer\Assets\Scripts\Host.cs:36 
+  at fs.TCPNetBase.Update () [0x00019] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetBase.cs:49  frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+接受成功
+[info]发送协议:7 frame:0
+[info]发送协议:7 frame:0
+<color=red>[error]</color>System.NullReferenceException: Object reference not set to an instance of an object
+  at TexturePacket.Write (fs.ByteArray by) [0x0002d] in E:\Project\clicker\clickServer\Assets\Scripts\FunctionPackage.cs:55 
+  at fs.TCPNetAccepter.Send (System.Int64 conn_idx, fs.PacketBase packet) [0x00035] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:93 
+  at Host.OnRect (System.Int64 _, fs.PacketBase packet) [0x0000a] in E:\Project\clicker\clickServer\Assets\Scripts\Host.cs:36 
+  at fs.TCPNetBase.Update () [0x00019] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetBase.cs:49  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPNetBase:Update () (at Assets/Scripts/Plugins/Network/net/TCPNetBase.cs:53)
+fs.TCPNetAccepter:Update () (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:64)
+Host:Update () (at Assets/Scripts/Host.cs:77)
+
+<color=red>[error]</color>System.NullReferenceException: Object reference not set to an instance of an object
+  at TexturePacket.Write (fs.ByteArray by) [0x0002d] in E:\Project\clicker\clickServer\Assets\Scripts\FunctionPackage.cs:55 
+  at fs.TCPNetAccepter.Send (System.Int64 conn_idx, fs.PacketBase packet) [0x00035] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:93 
+  at Host.OnRect (System.Int64 _, fs.PacketBase packet) [0x0000a] in E:\Project\clicker\clickServer\Assets\Scripts\Host.cs:36 
+  at fs.TCPNetBase.Update () [0x00019] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetBase.cs:49  frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+接受成功
+[info]发送协议:7 frame:0
+[info]发送协议:7 frame:0
+<color=red>[error]</color>System.NullReferenceException: Object reference not set to an instance of an object
+  at TexturePacket.Write (fs.ByteArray by) [0x0002d] in E:\Project\clicker\clickServer\Assets\Scripts\FunctionPackage.cs:55 
+  at fs.TCPNetAccepter.Send (System.Int64 conn_idx, fs.PacketBase packet) [0x00035] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:93 
+  at Host.OnRect (System.Int64 _, fs.PacketBase packet) [0x0000a] in E:\Project\clicker\clickServer\Assets\Scripts\Host.cs:36 
+  at fs.TCPNetBase.Update () [0x00019] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetBase.cs:49  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPNetBase:Update () (at Assets/Scripts/Plugins/Network/net/TCPNetBase.cs:53)
+fs.TCPNetAccepter:Update () (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:64)
+Host:Update () (at Assets/Scripts/Host.cs:77)
+
+<color=red>[error]</color>System.NullReferenceException: Object reference not set to an instance of an object
+  at TexturePacket.Write (fs.ByteArray by) [0x0002d] in E:\Project\clicker\clickServer\Assets\Scripts\FunctionPackage.cs:55 
+  at fs.TCPNetAccepter.Send (System.Int64 conn_idx, fs.PacketBase packet) [0x00035] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:93 
+  at Host.OnRect (System.Int64 _, fs.PacketBase packet) [0x0000a] in E:\Project\clicker\clickServer\Assets\Scripts\Host.cs:36 
+  at fs.TCPNetBase.Update () [0x00019] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetBase.cs:49  frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+<color=red>[error]</color>System.ArgumentNullException: Value cannot be null.
+Parameter name: destinationArray
+  at System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) [0x00011] in <88e4733ac7bc4ae1b496735e6b83bbd3>:0 
+  at fs.ByteArray.Read (System.Byte[]& buf, System.Int32 len, System.Int32 index) [0x00037] in <3f81697393634fda8787d962047b2c04>:0 
+  at TexturePacket.Read (fs.ByteArray by) [0x00043] in E:\Project\clicker\clickServer\Assets\Scripts\FunctionPackage.cs:45 
+  at fs.TCPNetBase.AddPacket (System.Int64 conn_idx, System.UInt16 header, fs.ByteArray data) [0x00033] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetBase.cs:64 
+  at fs.NetChannel.ParsePacket (System.Action`3[T1,T2,T3] callback) [0x000a1] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:84 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00016] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:56 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:146 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <3f81697393634fda8787d962047b2c04>:0  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>System.ArgumentNullException: Value cannot be null.
+Parameter name: destinationArray
+  at System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) [0x00011] in <88e4733ac7bc4ae1b496735e6b83bbd3>:0 
+  at fs.ByteArray.Read (System.Byte[]& buf, System.Int32 len, System.Int32 index) [0x00037] in <3f81697393634fda8787d962047b2c04>:0 
+  at TexturePacket.Read (fs.ByteArray by) [0x00043] in E:\Project\clicker\clickServer\Assets\Scripts\FunctionPackage.cs:45 
+  at fs.TCPNetBase.AddPacket (System.Int64 conn_idx, System.UInt16 header, fs.ByteArray data) [0x00033] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetBase.cs:64 
+  at fs.NetChannel.ParsePacket (System.Action`3[T1,T2,T3] callback) [0x000a1] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:84 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00016] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:56 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:146 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <3f81697393634fda8787d962047b2c04>:0  frame:0
+[info]OnChannelClose:3 frame:0
+[info]OnChannelClose:3 frame:0
+连接关闭
+OnApplicationQuit: stopped client
+Server: stopping...
+OnApplicationQuit: stopped server
+TelepathyTransport Shutdown()

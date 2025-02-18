@@ -18,6 +18,8 @@ namespace fs
         private TCPClientSocket m_socket = null;
         private NetChannel m_channel = null;
 
+        public const int MaxPacketSize = 1024 *1024 *4;
+
         public TCPNetConnecter()
             : base()
         {
@@ -77,7 +79,7 @@ namespace fs
 
             if (m_socket == null) return 0;
 
-            if (by.Available >= SocketID.SendRecvMaxSize)
+            if (by.Available >= MaxPacketSize)
             {
                 by.Skip(SocketID.PacketHeadSize);
                 ushort header = by.ReadUShort();

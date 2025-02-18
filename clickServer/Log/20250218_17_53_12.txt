@@ -1,0 +1,186 @@
+﻿Server: Start port=7777
+Server: listening port=7777
+Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPServerSocket - Start frame:0
+[info]TCPServerSocket - Start frame:0
+开始同步服务端数据
+messge:{"group":"","name":"446830557","ip":"192.168.0.157","time":17398723925.0}
+netPlayer.messge{"group":"","name":"446830557","ip":"192.168.0.157","time":17398723925.0}
+[info]OnChannelAccept:1 frame:0
+[info]OnChannelAccept:1 frame:0
+连接成功
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+收到协议:1002
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6160
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6219
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6381
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6387
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6333
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6365
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6420
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6316
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6388
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6417
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6292
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6251
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6467
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6485
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6411
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6462
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6520
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6391
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6495
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6507
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6426
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6439
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6417
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6607
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6545
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6581
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6644
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6520
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6615
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6632
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6431
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6449
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6598
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6440
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6555
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6595
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6657
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6538
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6633
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6650
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6402
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+剩余长度:6401
+OnApplicationQuit: stopped client
+Server: stopping...
+OnApplicationQuit: stopped server
+TelepathyTransport Shutdown()

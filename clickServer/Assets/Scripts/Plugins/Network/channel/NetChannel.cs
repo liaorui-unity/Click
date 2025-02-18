@@ -76,7 +76,7 @@ namespace fs
                         int len = m_by_buffer.Read(m_dispatcher_buffer, msg_length - sizeof(ushort));
                         if (len != msg_length - sizeof(ushort))
                         {
-                            Debuger.LogError("读取错误");
+                            Debuger.LogError("读取错误:"+header);
                             m_by_buffer.Skip(msg_length - sizeof(ushort));//跳到下一个位置
                             continue;
                         }

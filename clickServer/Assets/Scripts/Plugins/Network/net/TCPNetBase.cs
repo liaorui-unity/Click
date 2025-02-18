@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using UnityEngine;
 
 namespace fs
 {
@@ -58,6 +59,7 @@ namespace fs
         protected void AddPacket(long conn_idx, ushort header, ByteArray data)
         {
             Debuger.Log("收到协议:" + header);
+            Debug.Log("收到协议:" + header);
             PacketBase packet = PacketPools.Get(header);
             packet.Read(data);
 

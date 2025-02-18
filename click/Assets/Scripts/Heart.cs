@@ -17,19 +17,18 @@ public class Heart : MonoBehaviour
 
     public Button capBtn;
 
-    float cycle = 3;
-    float runTime = 0;
-
     AndroidJavaClass unityPlayer;
     AndroidJavaObject currentActivity;
 
-    TCPNetConnecter netConnecter;
 
+
+    ByteArray array = new ByteArray(1024*1024*4, 1024*1024*10);
+
+    long appectID =0;
 
     private void Awake()
     {
         instance = this;
-        netConnecter = new TCPNetConnecter();
     }
     
 
@@ -51,7 +50,7 @@ public class Heart : MonoBehaviour
         {
             try
             {
-              Click(Random.Range(100, 1000), Random.Range(100, 1000));
+               Click(Random.Range(100, 1000), Random.Range(100, 1000));
             }
             catch (System.Exception e)
             {
@@ -67,7 +66,10 @@ public class Heart : MonoBehaviour
 
         LANManager.instance.StartClient();
 
-        netConnecter.Connect("119.91.62.156",5000, OnConnected,OnRect,OnClose);
+        if(Application.platform == RuntimePlatform.WindowsEditor)
+            NetConnectManager.instance.ConnectTo("127.0.0.1",5000, OnConnected,OnRect,OnClose);
+        else 
+           NetConnectManager.instance.ConnectTo("119.91.62.156",5000, OnConnected,OnRect,OnClose);
 
         StartCoroutine(Send());
     }
@@ -76,6 +78,15 @@ public class Heart : MonoBehaviour
     public void OnConnected(long _)
     {
         Debug.Log("连接成功");
+        appectID = _;
+
+        // //发送连接成功消息
+        // var packet = PacketPools.Get(1002) as FunctionPackage;
+        // packet.type = "Control";
+        // array.Clear();
+        // packet.Write(array);
+        // NetConnectManager.instance.Send(appectID,packet);
+
     }
     public void OnRect(long _,PacketBase packet)
     {
@@ -112,14 +123,17 @@ public class Heart : MonoBehaviour
         byte[] bytes = System.IO.File.ReadAllBytes(filename);
 
         Debug.Log("发送截图数据:"+bytes.Length);
-        NetManager.instance.localPlayer.SendScreenshot(bytes);
+       // NetManager.instance.localPlayer.SendScreenshot(bytes);
 
-        //bytes 转字节
-         
-        string str = System.Text.Encoding.Default.GetString(bytes);
-        UDPLocalSendManager.instance.Send(str, "119.91.62.156", 47777, false);
-
-       // netConnecter.Send(new PacketBase(1,bytes));
+        //发送图片
+        array.Clear();
+        var packet = PacketPools.Get(1001) as TexturePacket;
+        packet.type = "Texture";
+        packet.width = 1920;
+        packet.height = 1080;
+        packet.data = bytes;
+        packet.Write(array);
+        NetConnectManager.instance.Send(appectID,packet);
     }
 
 

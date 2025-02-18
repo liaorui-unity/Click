@@ -1,0 +1,50 @@
+﻿Server: Start port=7777
+Server: listening port=7777
+Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPServerSocket - Start frame:0
+[info]TCPServerSocket - Start frame:0
+开始同步服务端数据
+messge:{"group":"","name":"2056836882","ip":"192.168.0.157","time":17398719809.0}
+netPlayer.messge{"group":"","name":"2056836882","ip":"192.168.0.157","time":17398719809.0}
+[info]OnChannelAccept:1 frame:0
+[info]OnChannelAccept:1 frame:0
+连接成功
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+收到协议:1002
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+收到协议:1001
+<color=red>[error]</color>System.OverflowException
+  at (wrapper managed-to-native) System.Object.__icall_wrapper_ves_icall_array_new_specific(intptr,int)
+  at TexturePacket.ReadBytes (fs.ByteArray by) [0x0000e] in E:\Project\clicker\clickServer\Assets\Scripts\FunctionPackage.cs:52 
+  at TexturePacket.Read (fs.ByteArray by) [0x00037] in E:\Project\clicker\clickServer\Assets\Scripts\FunctionPackage.cs:42 
+  at fs.TCPNetBase.AddPacket (System.Int64 conn_idx, System.UInt16 header, fs.ByteArray data) [0x00033] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetBase.cs:64 
+  at fs.NetChannel.ParsePacket (System.Action`3[T1,T2,T3] callback) [0x000a1] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:84 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00016] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:56 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:146 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <3f81697393634fda8787d962047b2c04>:0  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>System.OverflowException
+  at (wrapper managed-to-native) System.Object.__icall_wrapper_ves_icall_array_new_specific(intptr,int)
+  at TexturePacket.ReadBytes (fs.ByteArray by) [0x0000e] in E:\Project\clicker\clickServer\Assets\Scripts\FunctionPackage.cs:52 
+  at TexturePacket.Read (fs.ByteArray by) [0x00037] in E:\Project\clicker\clickServer\Assets\Scripts\FunctionPackage.cs:42 
+  at fs.TCPNetBase.AddPacket (System.Int64 conn_idx, System.UInt16 header, fs.ByteArray data) [0x00033] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetBase.cs:64 
+  at fs.NetChannel.ParsePacket (System.Action`3[T1,T2,T3] callback) [0x000a1] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:84 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00016] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:56 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:146 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <3f81697393634fda8787d962047b2c04>:0  frame:0
+[info]OnChannelClose:1 frame:0
+[info]OnChannelClose:1 frame:0
+连接关闭
+OnApplicationQuit: stopped client
+Server: stopping...
+OnApplicationQuit: stopped server
+TelepathyTransport Shutdown()
+Server Thread stopped. That's okay. System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+

@@ -1,0 +1,70 @@
+﻿Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]OnChannelConnect:0 frame:0
+[info]OnChannelConnect:0 frame:0
+连接成功
+[info]TCPClientSocket 关闭 frame:0
+[info]TCPClientSocket 关闭 frame:0
+[info]OnChannelClose:0 frame:0
+[info]OnChannelClose:0 frame:0
+连接关闭
+开始同步服务端数据
+messge:{"group":"","name":"1810124830","ip":"10.0.8.3","time":17396139002.0}
+netPlayer.messge{"group":"","name":"1810124830","ip":"10.0.8.3","time":17396139002.0}
+messge:{"group":"","name":"837274574","ip":"192.168.0.157","time":17398693062.0}
+netPlayer.messge{"group":"","name":"837274574","ip":"192.168.0.157","time":17398693062.0}
+发送截图数据:32095
+<color=red>[error]</color>发送数据量过大:7 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.TCPNetConnecter:Send (long,fs.ByteArray) (at Assets/Network/net/TCPNetConnecter.cs:84)
+Heart:GetScreenshotBytes (string) (at Assets/Scripts/Heart.cs:138)
+Heart/<Send>d__16:MoveNext () (at Assets/Scripts/Heart.cs:118)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+<color=red>[error]</color>发送数据量过大:7 frame:0
+发送截图数据:32154
+<color=red>[error]</color>发送数据量过大:7 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.TCPNetConnecter:Send (long,fs.ByteArray) (at Assets/Network/net/TCPNetConnecter.cs:84)
+Heart:GetScreenshotBytes (string) (at Assets/Scripts/Heart.cs:138)
+Heart/<Send>d__16:MoveNext () (at Assets/Scripts/Heart.cs:118)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+<color=red>[error]</color>发送数据量过大:7 frame:0
+发送截图数据:32316
+<color=red>[error]</color>发送数据量过大:7 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.TCPNetConnecter:Send (long,fs.ByteArray) (at Assets/Network/net/TCPNetConnecter.cs:84)
+Heart:GetScreenshotBytes (string) (at Assets/Scripts/Heart.cs:138)
+Heart/<Send>d__16:MoveNext () (at Assets/Scripts/Heart.cs:118)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+<color=red>[error]</color>发送数据量过大:7 frame:0
+发送截图数据:32322
+<color=red>[error]</color>发送数据量过大:7 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.TCPNetConnecter:Send (long,fs.ByteArray) (at Assets/Network/net/TCPNetConnecter.cs:84)
+Heart:GetScreenshotBytes (string) (at Assets/Scripts/Heart.cs:138)
+Heart/<Send>d__16:MoveNext () (at Assets/Scripts/Heart.cs:118)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+<color=red>[error]</color>发送数据量过大:7 frame:0
+发送截图数据:32268
+<color=red>[error]</color>发送数据量过大:7 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.TCPNetConnecter:Send (long,fs.ByteArray) (at Assets/Network/net/TCPNetConnecter.cs:84)
+Heart:GetScreenshotBytes (string) (at Assets/Scripts/Heart.cs:138)
+Heart/<Send>d__16:MoveNext () (at Assets/Scripts/Heart.cs:118)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+<color=red>[error]</color>发送数据量过大:7 frame:0
+OnApplicationQuit: stopped client
+TelepathyTransport Shutdown()

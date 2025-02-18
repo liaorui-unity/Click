@@ -1,0 +1,49 @@
+﻿Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]OnChannelConnect:0 frame:0
+[info]OnChannelConnect:0 frame:0
+连接成功
+header:1002
+[info]发送协议:1002 frame:0
+[info]发送协议:1002 frame:0
+header:1002
+开始同步服务端数据
+messge:{"group":"","name":"1810124830","ip":"10.0.8.3","time":17396139002.0}
+netPlayer.messge{"group":"","name":"1810124830","ip":"10.0.8.3","time":17396139002.0}
+messge:{"group":"","name":"403788611","ip":"192.168.0.157","time":17398705780.0}
+netPlayer.messge{"group":"","name":"403788611","ip":"192.168.0.157","time":17398705780.0}
+发送截图数据:32095
+header:1001
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+header:1001
+<color=red>[error]</color>ByteArray::Resize 缓冲区溢出:32118 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.ByteArray:Resize (int)
+fs.ByteArray:Write (byte[],int,int)
+fs.ByteArray:Write (byte[],int)
+fs.ByteArray:WriteBytes (byte[],int)
+TexturePacket:Write (fs.ByteArray) (at Assets/Scripts/FunctionPackage.cs:64)
+fs.NetConnectManager:Send (long,fs.PacketBase) (at Assets/Network/NetConnectManager.cs:81)
+Heart:GetScreenshotBytes (string) (at Assets/Scripts/Heart.cs:137)
+Heart/<Send>d__15:MoveNext () (at Assets/Scripts/Heart.cs:117)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+<color=red>[error]</color>ByteArray::Resize 缓冲区溢出:32118 frame:0
+ArgumentException: Destination array was not long enough. Check destIndex and length, and the array's lower bounds
+System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) (at <695d1cc93cca45069c528c15c9fdd749>:0)
+fs.ByteArray.Write (System.Byte[] buf, System.Int32 start_index, System.Int32 len) (at <c8196d1813d74f30b2dc5a2016c038fd>:0)
+fs.ByteArray.Write (System.Byte[] buf, System.Int32 len) (at <c8196d1813d74f30b2dc5a2016c038fd>:0)
+fs.ByteArray.WriteBytes (System.Byte[] buf, System.Int32 len) (at <c8196d1813d74f30b2dc5a2016c038fd>:0)
+TexturePacket.Write (fs.ByteArray by) (at Assets/Scripts/FunctionPackage.cs:64)
+fs.NetConnectManager.Send (System.Int64 conn_idx, fs.PacketBase packet) (at Assets/Network/NetConnectManager.cs:81)
+Heart.GetScreenshotBytes (System.String filePath) (at Assets/Scripts/Heart.cs:137)
+Heart+<Send>d__15.MoveNext () (at Assets/Scripts/Heart.cs:117)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <90585cf0c5a24f279207485a8de593e7>:0)
+
+OnApplicationQuit: stopped client
+TelepathyTransport Shutdown()

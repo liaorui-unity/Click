@@ -1,0 +1,36 @@
+﻿Server: Start port=7777
+Server: listening port=7777
+Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPServerSocket - Start frame:0
+[info]TCPServerSocket - Start frame:0
+开始同步服务端数据
+messge:{"group":"","name":"875153144","ip":"192.168.0.157","time":17398729049.0}
+netPlayer.messge{"group":"","name":"875153144","ip":"192.168.0.157","time":17398729049.0}
+[info]OnChannelAccept:1 frame:0
+[info]OnChannelAccept:1 frame:0
+连接成功
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+收到协议:1002
+接受成功
+[info]发送协议:7 frame:0
+[info]发送协议:7 frame:0
+[info]OnChannelClose:1 frame:0
+[info]OnChannelClose:1 frame:0
+连接关闭
+[info]OnChannelAccept:2 frame:0
+[info]OnChannelAccept:2 frame:0
+连接成功
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+收到协议:1002
+接受成功
+[info]发送协议:7 frame:0
+[info]发送协议:7 frame:0
+[info]OnChannelClose:2 frame:0
+[info]OnChannelClose:2 frame:0
+连接关闭
+OnApplicationQuit: stopped client
+Server: stopping...
+OnApplicationQuit: stopped server
+TelepathyTransport Shutdown()

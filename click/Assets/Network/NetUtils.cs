@@ -64,7 +64,7 @@ namespace fs
             }
         }
 
-        private static ByteArray tmpSendBy = new ByteArray(1024, SocketID.SendRecvMaxSize);
+        private static ByteArray tmpSendBy = new ByteArray(1024, 1024*1024);
         public static ByteArray AllocSendPacket()
         {
             tmpSendBy.Clear();
