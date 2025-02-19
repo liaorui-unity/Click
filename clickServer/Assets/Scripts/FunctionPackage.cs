@@ -12,6 +12,7 @@ public class FunctionPackage : PacketBase
     {
         base.Read(by);
         type   = by.ReadString();
+        Debug.Log("type:"+type);
     }
     public override void Write(ByteArray by)
     {

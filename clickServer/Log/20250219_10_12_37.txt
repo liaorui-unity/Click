@@ -1,0 +1,94 @@
+﻿Server: Start port=7777
+Server: listening port=7777
+Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPServerSocket - Start frame:0
+[info]TCPServerSocket - Start frame:0
+开始同步服务端数据
+messge:{"group":"","name":"37563362","ip":"192.168.0.157","time":17399311576.0}
+netPlayer.messge{"group":"","name":"37563362","ip":"192.168.0.157","time":17399311576.0}
+[info]OnChannelAccept:1 frame:0
+[info]OnChannelAccept:1 frame:0
+连接成功
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+type:Check
+接受成功
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:234981
+[info]收到协议:60440 frame:0
+[info]收到协议:60440 frame:0
+<color=red>[error]</color>PacketPools::AddPacketInfo - same id is register:1002 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.PacketPools:AddPacketInfo (fs.PacketInfo) (at Assets/Scripts/Plugins/Network/packet/PacketPools.cs:124)
+fs.PacketPools:ExtractAttribute (System.Reflection.Assembly) (at Assets/Scripts/Plugins/Network/packet/PacketPools.cs:162)
+fs.PacketPools:GetPacketInfo (uint16) (at Assets/Scripts/Plugins/Network/packet/PacketPools.cs:135)
+fs.PacketPools:Get (uint16) (at Assets/Scripts/Plugins/Network/packet/PacketPools.cs:59)
+fs.TCPNetBase:AddPacket (long,uint16,fs.ByteArray) (at Assets/Scripts/Plugins/Network/net/TCPNetBase.cs:62)
+fs.NetChannel:ParsePacket (System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Scripts/Plugins/Network/channel/NetChannel.cs:84)
+fs.NetChannel:HandleReceive (byte[],int,System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Scripts/Plugins/Network/channel/NetChannel.cs:56)
+fs.TCPNetAccepter:OnMessageReveived (long,byte[],int) (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:146)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>PacketPools::AddPacketInfo - same id is register:1002 frame:0
+<color=red>[error]</color>PacketPools::AddPacketInfo - same id is register:1001 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.PacketPools:AddPacketInfo (fs.PacketInfo) (at Assets/Scripts/Plugins/Network/packet/PacketPools.cs:124)
+fs.PacketPools:ExtractAttribute (System.Reflection.Assembly) (at Assets/Scripts/Plugins/Network/packet/PacketPools.cs:162)
+fs.PacketPools:GetPacketInfo (uint16) (at Assets/Scripts/Plugins/Network/packet/PacketPools.cs:135)
+fs.PacketPools:Get (uint16) (at Assets/Scripts/Plugins/Network/packet/PacketPools.cs:59)
+fs.TCPNetBase:AddPacket (long,uint16,fs.ByteArray) (at Assets/Scripts/Plugins/Network/net/TCPNetBase.cs:62)
+fs.NetChannel:ParsePacket (System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Scripts/Plugins/Network/channel/NetChannel.cs:84)
+fs.NetChannel:HandleReceive (byte[],int,System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Scripts/Plugins/Network/channel/NetChannel.cs:56)
+fs.TCPNetAccepter:OnMessageReveived (long,byte[],int) (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:146)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>PacketPools::AddPacketInfo - same id is register:1001 frame:0
+<color=red>[error]</color>PacketPools - 没有找到协议对应的类信息，请在类{0}添加特性PacketAttribute frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.PacketPools:Get (uint16) (at Assets/Scripts/Plugins/Network/packet/PacketPools.cs:62)
+fs.TCPNetBase:AddPacket (long,uint16,fs.ByteArray) (at Assets/Scripts/Plugins/Network/net/TCPNetBase.cs:62)
+fs.NetChannel:ParsePacket (System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Scripts/Plugins/Network/channel/NetChannel.cs:84)
+fs.NetChannel:HandleReceive (byte[],int,System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Scripts/Plugins/Network/channel/NetChannel.cs:56)
+fs.TCPNetAccepter:OnMessageReveived (long,byte[],int) (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:146)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>PacketPools - 没有找到协议对应的类信息，请在类{0}添加特性PacketAttribute frame:0
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+<color=red>[error]</color>System.NullReferenceException: Object reference not set to an instance of an object
+  at fs.TCPNetBase.AddPacket (System.Int64 conn_idx, System.UInt16 header, fs.ByteArray data) [0x0001d] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetBase.cs:63 
+  at fs.NetChannel.ParsePacket (System.Action`3[T1,T2,T3] callback) [0x000a1] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:84 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00016] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:56 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:146 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <8a7a7ece80ea4cc7995eb6a02d14491f>:0  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>System.NullReferenceException: Object reference not set to an instance of an object
+  at fs.TCPNetBase.AddPacket (System.Int64 conn_idx, System.UInt16 header, fs.ByteArray data) [0x0001d] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetBase.cs:63 
+  at fs.NetChannel.ParsePacket (System.Action`3[T1,T2,T3] callback) [0x000a1] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:84 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00016] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:56 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:146 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <8a7a7ece80ea4cc7995eb6a02d14491f>:0  frame:0
+[info]OnChannelClose:1 frame:0
+[info]OnChannelClose:1 frame:0
+连接关闭
+OnApplicationQuit: stopped client
+Server: stopping...
+OnApplicationQuit: stopped server
+TelepathyTransport Shutdown()
+Server Thread stopped. That's okay. System.Net.Sockets.SocketException (0x80004005): 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+

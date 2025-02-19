@@ -102,7 +102,7 @@ namespace fs
 
             if (m_socket == null) return 0;
 
-            if (by.Available >= SocketID.SendRecvMaxSize)
+            if (by.Available >= 1024*1024*4)
             {
                 by.Skip(SocketID.PacketHeadSize);
                 ushort header = by.ReadUShort();

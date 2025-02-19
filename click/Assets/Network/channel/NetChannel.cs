@@ -52,6 +52,7 @@ namespace fs
         {
             if (by == null || by.Length == 0) return;
 
+Debuger.Log("接收数据长度："+count);
             m_by_buffer.WriteBytes(by, count);
             ParsePacket(callback);
         }
@@ -66,18 +67,21 @@ namespace fs
             {
                 if (m_by_buffer.Peek(ref head_by, SocketID.PacketHeadSize))
                 {
-                    ushort msg_length = BitConverter.ToUInt16(head_by, 0);
+                    int msg_length = BitConverter.ToInt32(head_by, 0);
+                    
+                    Debuger.Log("解析数据长度："+msg_length);
+
                     if (m_by_buffer.Available >= msg_length + SocketID.PacketHeadSize)
                     {
                         //读取包数据
                         m_by_buffer.Skip(SocketID.PacketHeadSize);
                         ushort header = m_by_buffer.ReadUShort();
                         m_dispatcher_buffer.Clear();
-                        int len = m_by_buffer.Read(m_dispatcher_buffer, msg_length - sizeof(ushort));
+                        int len = m_by_buffer.Read(m_dispatcher_buffer, (int)(msg_length - sizeof(ushort)));
                         if (len != msg_length - sizeof(ushort))
                         {
-                            Debuger.LogError("读取错误");
-                            m_by_buffer.Skip(msg_length - sizeof(ushort));//跳到下一个位置
+                            Debuger.LogError("读取错误:"+header);
+                            m_by_buffer.Skip((int)(msg_length - sizeof(ushort)));//跳到下一个位置
                             continue;
                         }
                         //派发数据

@@ -89,7 +89,7 @@ namespace fs
             Debuger.Log("发送协议:" + packet.header);
 
             m_send_by.Clear();
-            m_send_by.WriteUShort(0);//先写入长度占位
+            m_send_by.WriteInt(0);//先写入长度占位
             packet.Write(m_send_by);
             int size = this.Send(conn_idx, m_send_by);
             PacketPools.Recover(packet);
@@ -102,7 +102,7 @@ namespace fs
 
             if (m_socket == null) return 0;
 
-            if (by.Available >= 1024*1024*4)
+            if (by.Available >= SocketID.MaxByteArraySize)
             {
                 by.Skip(SocketID.PacketHeadSize);
                 ushort header = by.ReadUShort();

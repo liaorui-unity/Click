@@ -1,0 +1,114 @@
+﻿Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]OnChannelConnect:0 frame:0
+[info]OnChannelConnect:0 frame:0
+连接成功
+开始同步服务端数据
+messge:{"group":"","name":"1024150362","ip":"10.0.8.3","time":17399274991.0}
+netPlayer.messge{"group":"","name":"1024150362","ip":"10.0.8.3","time":17399274991.0}
+messge:{"group":"","name":"1919669145","ip":"192.168.0.201","time":17399309847.0}
+netPlayer.messge{"group":"","name":"1919669145","ip":"192.168.0.201","time":17399309847.0}
+messge:{"group":"","name":"1140660811","ip":"192.168.0.157","time":17399313169.0}
+netPlayer.messge{"group":"","name":"1140660811","ip":"192.168.0.157","time":17399313169.0}
+[info]发送协议:1002 frame:0
+[info]发送协议:1002 frame:0
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+[info]TCPClientSocket 关闭 frame:0
+[info]TCPClientSocket 关闭 frame:0
+[info]OnChannelClose:0 frame:0
+[info]OnChannelClose:0 frame:0
+连接关闭
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+OnApplicationQuit: stopped client
+TelepathyTransport Shutdown()

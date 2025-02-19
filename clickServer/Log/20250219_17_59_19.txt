@@ -1,0 +1,65 @@
+﻿Server: Start port=7777
+Server: listening port=7777
+Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPServerSocket - Start frame:0
+[info]TCPServerSocket - Start frame:0
+开始同步服务端数据
+messge:{"group":"","name":"985833305","ip":"192.168.0.157","time":17399591598.0}
+netPlayer.messge{"group":"","name":"985833305","ip":"192.168.0.157","time":17399591598.0}
+[info]OnChannelAccept:1 frame:0
+[info]OnChannelAccept:1 frame:0
+连接成功
+[info]接收数据长度：13 frame:0
+[info]接收数据长度：13 frame:0
+[info]解析数据长度：13_9 frame:0
+[info]解析数据长度：13_9 frame:0
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+type:Check
+接受成功
+[info]OnChannelAccept:2 frame:0
+[info]OnChannelAccept:2 frame:0
+连接成功
+[info]接收数据长度：13 frame:0
+[info]接收数据长度：13 frame:0
+[info]解析数据长度：13_9 frame:0
+[info]解析数据长度：13_9 frame:0
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+type:Check
+接受成功
+[info]接收数据长度：4380 frame:0
+[info]接收数据长度：4380 frame:0
+[info]解析数据长度：4380_246192 frame:0
+[info]解析数据长度：4380_246192 frame:0
+[info]接收数据长度：62780 frame:0
+[info]接收数据长度：62780 frame:0
+[info]解析数据长度：67160_246192 frame:0
+[info]解析数据长度：67160_246192 frame:0
+[info]接收数据长度：61320 frame:0
+[info]接收数据长度：61320 frame:0
+[info]解析数据长度：128480_246192 frame:0
+[info]解析数据长度：128480_246192 frame:0
+[info]接收数据长度：64240 frame:0
+[info]接收数据长度：64240 frame:0
+[info]解析数据长度：192720_246192 frame:0
+[info]解析数据长度：192720_246192 frame:0
+[info]接收数据长度：27740 frame:0
+[info]接收数据长度：27740 frame:0
+[info]解析数据长度：220460_246192 frame:0
+[info]解析数据长度：220460_246192 frame:0
+[info]接收数据长度：25736 frame:0
+[info]接收数据长度：25736 frame:0
+[info]解析数据长度：246196_246192 frame:0
+[info]解析数据长度：246196_246192 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:246169
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:246169
+[info]OnChannelClose:1 frame:0
+[info]OnChannelClose:1 frame:0
+连接关闭

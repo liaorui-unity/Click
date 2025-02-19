@@ -1,0 +1,15 @@
+﻿Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]OnChannelConnect:0 frame:0
+[info]OnChannelConnect:0 frame:0
+连接成功
+开始同步服务端数据
+messge:{"group":"","name":"1024150362","ip":"10.0.8.3","time":17399274991.0}
+netPlayer.messge{"group":"","name":"1024150362","ip":"10.0.8.3","time":17399274991.0}
+messge:{"group":"","name":"965352854","ip":"192.168.0.157","time":17399336894.0}
+netPlayer.messge{"group":"","name":"965352854","ip":"192.168.0.157","time":17399336894.0}
+OnApplicationQuit: stopped client
+TelepathyTransport Shutdown()

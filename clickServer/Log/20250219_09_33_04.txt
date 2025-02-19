@@ -1,0 +1,55 @@
+﻿Server: Start port=7777
+Server: listening port=7777
+Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPServerSocket - Start frame:0
+[info]TCPServerSocket - Start frame:0
+开始同步服务端数据
+messge:{"group":"","name":"882395366","ip":"192.168.0.157","time":17399287841.0}
+netPlayer.messge{"group":"","name":"882395366","ip":"192.168.0.157","time":17399287841.0}
+[info]OnChannelAccept:1 frame:0
+[info]OnChannelAccept:1 frame:0
+连接成功
+<color=red>[error]</color>ByteArray::Resize 缓冲区溢出:160602 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.ByteArray:Resize (int)
+fs.ByteArray:Write (byte[],int,int)
+fs.ByteArray:Write (byte[],int)
+fs.ByteArray:WriteBytes (byte[],int)
+fs.NetChannel:HandleReceive (byte[],int,System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Scripts/Plugins/Network/channel/NetChannel.cs:55)
+fs.TCPNetAccepter:OnMessageReveived (long,byte[],int) (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:146)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>ByteArray::Resize 缓冲区溢出:160602 frame:0
+<color=red>[error]</color>System.ArgumentException: Destination array was not long enough. Check destIndex and length, and the array's lower bounds
+Parameter name: destinationArray
+  at System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) [0x000cb] in <88e4733ac7bc4ae1b496735e6b83bbd3>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 start_index, System.Int32 len) [0x00098] in <3f81697393634fda8787d962047b2c04>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 len) [0x00001] in <3f81697393634fda8787d962047b2c04>:0 
+  at fs.ByteArray.WriteBytes (System.Byte[] buf, System.Int32 len) [0x00001] in <3f81697393634fda8787d962047b2c04>:0 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00008] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:55 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:146 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <3f81697393634fda8787d962047b2c04>:0  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>System.ArgumentException: Destination array was not long enough. Check destIndex and length, and the array's lower bounds
+Parameter name: destinationArray
+  at System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) [0x000cb] in <88e4733ac7bc4ae1b496735e6b83bbd3>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 start_index, System.Int32 len) [0x00098] in <3f81697393634fda8787d962047b2c04>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 len) [0x00001] in <3f81697393634fda8787d962047b2c04>:0 
+  at fs.ByteArray.WriteBytes (System.Byte[] buf, System.Int32 len) [0x00001] in <3f81697393634fda8787d962047b2c04>:0 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00008] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:55 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:146 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <3f81697393634fda8787d962047b2c04>:0  frame:0
+[info]OnChannelClose:1 frame:0
+[info]OnChannelClose:1 frame:0
+连接关闭
+OnApplicationQuit: stopped client
+Server: stopping...
+OnApplicationQuit: stopped server
+TelepathyTransport Shutdown()

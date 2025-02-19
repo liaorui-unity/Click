@@ -1,0 +1,330 @@
+﻿Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]OnChannelConnect:0 frame:0
+[info]OnChannelConnect:0 frame:0
+连接成功
+开始同步服务端数据
+messge:{"group":"","name":"105121728","ip":"192.168.0.157","time":17399285470.0}
+netPlayer.messge{"group":"","name":"105121728","ip":"192.168.0.157","time":17399285470.0}
+messge:{"group":"","name":"1024150362","ip":"10.0.8.3","time":17399274991.0}
+netPlayer.messge{"group":"","name":"1024150362","ip":"10.0.8.3","time":17399274991.0}
+发送截图数据:32095
+发送图片数据:32095
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32095
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32095
+发送截图数据:32154
+发送图片数据:32154
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32154
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32154
+发送截图数据:32316
+发送图片数据:32316
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32316
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32316
+发送截图数据:32322
+发送图片数据:32322
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32322
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32322
+发送截图数据:32268
+发送图片数据:32268
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32268
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32268
+发送截图数据:32300
+发送图片数据:32300
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32300
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32300
+发送截图数据:32355
+发送图片数据:32355
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32355
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32355
+发送截图数据:32251
+发送图片数据:32251
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32251
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32251
+发送截图数据:32323
+发送图片数据:32323
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32323
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32323
+发送截图数据:32352
+发送图片数据:32352
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32352
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32352
+发送截图数据:32227
+发送图片数据:32227
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32227
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32227
+发送截图数据:32186
+发送图片数据:32186
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32186
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32186
+发送截图数据:32402
+发送图片数据:32402
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32402
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32402
+发送截图数据:32420
+发送图片数据:32420
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32420
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32420
+发送截图数据:32346
+发送图片数据:32346
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32346
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32346
+发送截图数据:32397
+发送图片数据:32397
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32397
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32397
+发送截图数据:32455
+发送图片数据:32455
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32455
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32455
+发送截图数据:32326
+发送图片数据:32326
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32326
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32326
+发送截图数据:32430
+发送图片数据:32430
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32430
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32430
+发送截图数据:32442
+发送图片数据:32442
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32442
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32442
+发送截图数据:32361
+发送图片数据:32361
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32361
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32361
+发送截图数据:32374
+发送图片数据:32374
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32374
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32374
+发送截图数据:32352
+发送图片数据:32352
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32352
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32352
+发送截图数据:32542
+发送图片数据:32542
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32542
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32542
+Object reference not set to an instance of an object
+发送截图数据:32480
+发送图片数据:32480
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32480
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32480
+Object reference not set to an instance of an object
+Object reference not set to an instance of an object
+Object reference not set to an instance of an object
+发送截图数据:32548
+发送图片数据:32548
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32548
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32548
+Object reference not set to an instance of an object
+Object reference not set to an instance of an object
+Object reference not set to an instance of an object
+Object reference not set to an instance of an object
+发送截图数据:32592
+发送图片数据:32592
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32592
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32592
+发送截图数据:32483
+发送图片数据:32483
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32483
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32483
+Object reference not set to an instance of an object
+Object reference not set to an instance of an object
+Object reference not set to an instance of an object
+发送截图数据:32583
+发送图片数据:32583
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32583
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32583
+发送截图数据:32596
+发送图片数据:32596
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32596
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32596
+发送截图数据:32397
+发送图片数据:32397
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32397
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32397
+发送截图数据:32418
+发送图片数据:32418
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32418
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32418
+发送截图数据:32562
+发送图片数据:32562
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32562
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32562
+发送截图数据:32404
+发送图片数据:32404
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32404
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32404
+发送截图数据:32517
+发送图片数据:32517
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32517
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32517
+发送截图数据:32561
+发送图片数据:32561
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32561
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32561
+发送截图数据:32621
+发送图片数据:32621
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32621
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32621
+发送截图数据:32503
+发送图片数据:32503
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:32503
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:32503
+OnApplicationQuit: stopped client
+TelepathyTransport Shutdown()

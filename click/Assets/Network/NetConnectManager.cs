@@ -77,7 +77,7 @@ namespace fs
         {
             Debuger.Log("发送协议:" + packet.header);
             m_send_by.Clear();
-            m_send_by.WriteUShort(0);//先写入长度占位
+            m_send_by.WriteInt(0);//先写入长度占位
             packet.Write(m_send_by);
             int len = this.Send(conn_idx, m_send_by);
             PacketPools.Recover(packet);

@@ -1,0 +1,643 @@
+﻿Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]OnChannelConnect:0 frame:0
+[info]OnChannelConnect:0 frame:0
+连接成功
+开始同步服务端数据
+messge:{"group":"","name":"555432998","ip":"192.168.0.157","time":17399551496.0}
+netPlayer.messge{"group":"","name":"555432998","ip":"192.168.0.157","time":17399551496.0}
+messge:{"group":"","name":"1024150362","ip":"10.0.8.3","time":17399274991.0}
+netPlayer.messge{"group":"","name":"1024150362","ip":"10.0.8.3","time":17399274991.0}
+[info]发送协议:1002 frame:0
+[info]发送协议:1002 frame:0
+Object reference not set to an instance of an object
+shot length:36297
+write data length::36297
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36297
+shot length:36185
+write data length::36185
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36185
+shot length:36257
+write data length::36257
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36257
+shot length:36541
+write data length::36541
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36541
+shot length:36329
+write data length::36329
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36329
+shot length:36434
+write data length::36434
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36434
+shot length:36540
+write data length::36540
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36540
+shot length:36686
+write data length::36686
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36686
+shot length:36130
+write data length::36130
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36130
+shot length:36673
+write data length::36673
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36673
+shot length:36642
+write data length::36642
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36642
+shot length:36535
+write data length::36535
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36535
+shot length:36277
+write data length::36277
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36277
+shot length:36688
+write data length::36688
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36688
+shot length:36544
+write data length::36544
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36544
+shot length:36644
+write data length::36644
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36644
+shot length:36741
+write data length::36741
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36741
+shot length:37024
+write data length::37024
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37024
+shot length:36554
+write data length::36554
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36554
+shot length:36767
+write data length::36767
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36767
+shot length:37098
+write data length::37098
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37098
+shot length:36832
+write data length::36832
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36832
+shot length:36596
+write data length::36596
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36596
+shot length:36567
+write data length::36567
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36567
+shot length:36682
+write data length::36682
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36682
+shot length:36759
+write data length::36759
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36759
+shot length:36991
+write data length::36991
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36991
+shot length:37318
+write data length::37318
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37318
+shot length:36885
+write data length::36885
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36885
+shot length:37017
+write data length::37017
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37017
+shot length:37050
+write data length::37050
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37050
+shot length:36896
+write data length::36896
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36896
+shot length:36740
+write data length::36740
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36740
+shot length:37027
+write data length::37027
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37027
+shot length:36509
+write data length::36509
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36509
+shot length:36886
+write data length::36886
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36886
+shot length:36998
+write data length::36998
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36998
+shot length:37187
+write data length::37187
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37187
+shot length:36701
+write data length::36701
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36701
+shot length:37102
+write data length::37102
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37102
+shot length:36903
+write data length::36903
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36903
+shot length:36508
+write data length::36508
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36508
+shot length:36577
+write data length::36577
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36577
+shot length:36862
+write data length::36862
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36862
+shot length:36663
+write data length::36663
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36663
+shot length:36586
+write data length::36586
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36586
+shot length:37059
+write data length::37059
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37059
+shot length:37309
+write data length::37309
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37309
+shot length:36892
+write data length::36892
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36892
+shot length:37301
+write data length::37301
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37301
+shot length:37241
+write data length::37241
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37241
+shot length:36892
+write data length::36892
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36892
+shot length:36463
+write data length::36463
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36463
+shot length:37039
+write data length::37039
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37039
+shot length:36897
+write data length::36897
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36897
+shot length:36978
+write data length::36978
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36978
+shot length:36822
+write data length::36822
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36822
+shot length:37055
+write data length::37055
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37055
+shot length:37092
+write data length::37092
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37092
+shot length:37472
+write data length::37472
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37472
+shot length:37520
+write data length::37520
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37520
+shot length:37081
+write data length::37081
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37081
+shot length:36755
+write data length::36755
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36755
+shot length:36729
+write data length::36729
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36729
+shot length:36886
+write data length::36886
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36886
+shot length:36947
+write data length::36947
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36947
+shot length:37208
+write data length::37208
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37208
+shot length:37051
+write data length::37051
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37051
+shot length:36754
+write data length::36754
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36754
+shot length:37382
+write data length::37382
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37382
+shot length:37421
+write data length::37421
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37421
+shot length:36920
+write data length::36920
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36920
+shot length:36726
+write data length::36726
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36726
+shot length:37060
+write data length::37060
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37060
+shot length:36532
+write data length::36532
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36532
+shot length:36773
+write data length::36773
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36773
+shot length:36876
+write data length::36876
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36876
+shot length:37219
+write data length::37219
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37219
+shot length:36567
+write data length::36567
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36567
+shot length:36797
+write data length::36797
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36797
+shot length:37158
+write data length::37158
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37158
+shot length:36838
+write data length::36838
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36838
+shot length:36873
+write data length::36873
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36873
+shot length:37202
+write data length::37202
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37202
+shot length:36999
+write data length::36999
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36999
+shot length:36761
+write data length::36761
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36761
+shot length:37026
+write data length::37026
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37026
+shot length:37355
+write data length::37355
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37355
+shot length:36945
+write data length::36945
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36945
+shot length:37040
+write data length::37040
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37040
+shot length:37091
+write data length::37091
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37091
+shot length:36971
+write data length::36971
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36971
+shot length:36785
+write data length::36785
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36785
+shot length:37099
+write data length::37099
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37099
+shot length:37001
+write data length::37001
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37001
+shot length:37079
+write data length::37079
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37079
+shot length:36837
+write data length::36837
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36837
+shot length:37295
+write data length::37295
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37295
+shot length:37163
+write data length::37163
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37163
+shot length:37629
+write data length::37629
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37629
+shot length:37361
+write data length::37361
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37361
+shot length:36925
+write data length::36925
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36925
+shot length:36857
+write data length::36857
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36857
+shot length:37182
+write data length::37182
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37182
+shot length:36981
+write data length::36981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36981
+shot length:37081
+write data length::37081
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37081
+shot length:37367
+write data length::37367
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37367
+shot length:37094
+write data length::37094
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37094
+shot length:36798
+write data length::36798
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36798
+shot length:37358
+write data length::37358
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37358
+shot length:37360
+write data length::37360
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37360
+shot length:36880
+write data length::36880
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36880
+shot length:36582
+write data length::36582
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36582
+shot length:37033
+write data length::37033
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37033
+shot length:36524
+write data length::36524
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36524
+shot length:36626
+write data length::36626
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36626
+shot length:36759
+write data length::36759
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36759
+shot length:37053
+write data length::37053
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37053
+shot length:36542
+write data length::36542
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36542
+shot length:36761
+write data length::36761
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36761
+shot length:37045
+write data length::37045
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::37045
+shot length:36905
+write data length::36905
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36905
+shot length:36860
+write data length::36860
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36860
+shot length:36920
+write data length::36920
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36920
+shot length:36973
+write data length::36973
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+write data length::36973
+OnApplicationQuit: stopped client
+TelepathyTransport Shutdown()

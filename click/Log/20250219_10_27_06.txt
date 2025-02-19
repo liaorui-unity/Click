@@ -1,0 +1,327 @@
+﻿Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]OnChannelConnect:0 frame:0
+[info]OnChannelConnect:0 frame:0
+连接成功
+开始同步服务端数据
+messge:{"group":"","name":"1919669145","ip":"192.168.0.201","time":17399309847.0}
+netPlayer.messge{"group":"","name":"1919669145","ip":"192.168.0.201","time":17399309847.0}
+messge:{"group":"","name":"1024150362","ip":"10.0.8.3","time":17399274991.0}
+netPlayer.messge{"group":"","name":"1024150362","ip":"10.0.8.3","time":17399274991.0}
+messge:{"group":"","name":"1953299494","ip":"192.168.0.157","time":17399320266.0}
+netPlayer.messge{"group":"","name":"1953299494","ip":"192.168.0.157","time":17399320266.0}
+[info]发送协议:1002 frame:0
+[info]发送协议:1002 frame:0
+[info]TCPClientSocket 关闭 frame:0
+[info]TCPClientSocket 关闭 frame:0
+[info]OnChannelClose:0 frame:0
+[info]OnChannelClose:0 frame:0
+连接关闭
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+发送截图数据:234981
+发送图片数据:234981
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:234981
+Assets\Network\udpLocal\RadioReport.cs(236,26): warning CS0168: The variable 'e' is declared but never used
+Assets\Network\net\UDPSendManager.cs(105,17): warning CS0162: Unreachable code detected
+Assets\Network\net\UDPLocalSendManager.cs(104,17): warning CS0162: Unreachable code detected
+Assets\Network\net\UDPLocalRecvManager.cs(158,17): warning CS0162: Unreachable code detected
+Assets\Network\net\UDPRecvManager.cs(158,17): warning CS0162: Unreachable code detected
+Assets\Network\udpLocal\UDPSend.cs(31,37): warning CS0067: The event 'UDPSend.OnClose' is never used
+Assets\Network\udpLocal\UDPRecv.cs(34,37): warning CS0067: The event 'UDPRecv.OnClose' is never used
+Assets\Network\net\UDPLocalRecvManager.cs(42,22): warning CS0414: The field 'UDPLocalRecvManager.m_myself_receive' is assigned but its value is never used
+Assets\Nets\Script\LANManager.cs(58,14): warning CS0414: The field 'LANManager.isFindHost' is assigned but its value is never used
+Assets\Network\net\UDPRecvManager.cs(43,22): warning CS0414: The field 'UDPRecvManager.m_myself_receive' is assigned but its value is never used

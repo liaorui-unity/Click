@@ -40,7 +40,7 @@ public class TexturePacket :PacketBase
         height = by.ReadInt();
         length = by.ReadInt();
         
-        Debug.Log("发送图片数据:"+length);
+        Debug.Log(" read data length:"+length);
         by.Read(ref data,length);
     }
 
@@ -52,7 +52,7 @@ public class TexturePacket :PacketBase
         by.WriteInt(height);
         by.WriteInt(data.Length);
 
-        Debug.Log("发送图片数据:"+data.Length);
+        Debug.Log("write data length::"+data.Length);
         by.WriteBytes(data,data.Length);
     }
 }

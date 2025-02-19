@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.IO;
 using fs;
 using Sailfish;
@@ -13,6 +14,7 @@ public class Heart : MonoBehaviour
     public  Text run;
 
     public Text log;
+    public Text id;
     public Button randomBtn;
 
     public Button capBtn;
@@ -22,7 +24,7 @@ public class Heart : MonoBehaviour
 
 
 
-    ByteArray array = new ByteArray(1024*1024*4, 1024*1024*10);
+    ByteArray array = new ByteArray(1024*1024*1, 1024*1024*2);
 
     long appectID =0;
 
@@ -31,6 +33,8 @@ public class Heart : MonoBehaviour
         instance = this;
     }
     
+    Coroutine sendCor=null;
+    Coroutine shotCor=null;
 
     void Start()
     {
@@ -38,7 +42,16 @@ public class Heart : MonoBehaviour
         {
             try
             { 
-              CaptureScreenshot();
+
+                if(sendCor != null)
+                {
+                    StopCoroutine(sendCor);
+                    StopCoroutine(shotCor);
+                }
+                sendCor = StartCoroutine(Send());
+                shotCor = StartCoroutine(Screenshot());
+
+                 CaptureScreenshot();
             }
             catch (System.Exception e)
             {
@@ -66,12 +79,15 @@ public class Heart : MonoBehaviour
 
         LANManager.instance.StartClient();
 
-        if(Application.platform == RuntimePlatform.WindowsEditor)
-            NetConnectManager.instance.ConnectTo("127.0.0.1",5000, OnConnected,OnRect,OnClose);
-        else 
-           NetConnectManager.instance.ConnectTo("119.91.62.156",5000, OnConnected,OnRect,OnClose);
+        //  if(Application.platform == RuntimePlatform.WindowsEditor)
+        //      NetConnectManager.instance.ConnectTo("127.0.0.1",5000, OnConnected,OnRect,OnClose);
+        //  else 
+        //    NetConnectManager.instance.ConnectTo("119.91.62.156",5000, OnConnected,OnRect,OnClose);
 
-        StartCoroutine(Send());
+               NetConnectManager.instance.ConnectTo("192.168.0.157",5000, OnConnected,OnRect,OnClose);
+
+         //NetConnectManager.instance.ConnectTo("127.0.0.1",5000, OnConnected,OnRect,OnClose);
+       
     }
 
     
@@ -79,14 +95,6 @@ public class Heart : MonoBehaviour
     {
         Debug.Log("连接成功");
         appectID = _;
-
-        // //发送连接成功消息
-        // var packet = PacketPools.Get(1002) as FunctionPackage;
-        // packet.type = "Control";
-        // array.Clear();
-        // packet.Write(array);
-        // NetConnectManager.instance.Send(appectID,packet);
-
     }
     public void OnRect(long _,PacketBase packet)
     {
@@ -98,42 +106,104 @@ public class Heart : MonoBehaviour
         Debug.Log("连接关闭");
     }
  
+   
+   string pathDir => Application.persistentDataPath + "/Screenshot";
 
     public void CaptureScreenshot()   
     {  
-        currentActivity.Call("CaptureScreenshot",Application.persistentDataPath);
+        if(Directory.Exists(pathDir) == false)
+        {
+            Directory.CreateDirectory(pathDir);
+        }
+        else 
+        {
+            Directory.Delete(pathDir,true);
+            Directory.CreateDirectory(pathDir);
+        }
+
+        currentActivity.Call("CaptureScreenshot",pathDir);
     }
 
     IEnumerator Send()
     {
+         //发送图片
+        array.Clear();
+        var packet    = PacketPools.Get(1002) as FunctionPackage;
+        packet.type   = "Check";
+        packet.Write(array);
+        NetConnectManager.instance.Send(appectID,packet);
+
         while (true)
         {
-            if(Application.platform == RuntimePlatform.WindowsEditor)
+            if(ids.Count > 1)
             {
-              ScreenCapture.CaptureScreenshot(Application.persistentDataPath + "/Screenshot.png");
+                saveID = ids[0];
+                ids.RemoveAt(0);
+                GetScreenshotBytes();
             }
-            yield return new WaitForSeconds(1);
-            GetScreenshotBytes(Application.persistentDataPath + "/Screenshot.png");
+            
+            yield return new WaitForSeconds(0.25f);
         }
     }
 
-    public void GetScreenshotBytes(string filePath)
+    IEnumerator Screenshot()
     {
-        string filename = Application.persistentDataPath + "/Screenshot.png";
-        byte[] bytes = System.IO.File.ReadAllBytes(filename);
+        while (true)
+        {  
+            if(Application.platform == RuntimePlatform.WindowsEditor)
+            {
+                ScreenCapture.CaptureScreenshot(path);
+            }
+            else 
+            {
+                currentActivity.Call("NextCapture",$"{fileID}.png");
+            }
+            fileID += 1;
+            yield return new WaitForSeconds(0.75f);
+        }
+    }
 
-        Debug.Log("发送截图数据:"+bytes.Length);
-       // NetManager.instance.localPlayer.SendScreenshot(bytes);
+    int saveFileID = 0;
 
-        //发送图片
-        array.Clear();
-        var packet = PacketPools.Get(1001) as TexturePacket;
-        packet.type = "Texture";
-        packet.width = 1920;
-        packet.height = 1080;
-        packet.data = bytes;
-        packet.Write(array);
-        NetConnectManager.instance.Send(appectID,packet);
+    List<int> ids = new List<int>();
+    public void RecvScreenshot(string file)
+    {
+        saveFileID = int.Parse(file);
+        ids.Add(saveFileID);
+    }
+
+    public int fileID  = 0;
+    private int saveID = 0;
+    private int sendID = -1;
+
+    public string path => $"{pathDir}/{saveID}.png";
+
+    public void GetScreenshotBytes()
+    {
+       if(File.Exists(path))
+       {
+            if(sendID == saveID)
+            {
+                return;
+            }
+
+            sendID = saveID;
+            
+           
+            byte[] bytes = System.IO.File.ReadAllBytes(path);
+
+            Debug.Log("shot length:" + bytes.Length);
+
+            array.Clear();
+            var packet    = PacketPools.Get(1001) as TexturePacket;
+            packet.type   = "Texture";
+            packet.width  = 1080;
+            packet.height = 1920;
+            packet.length = bytes.Length;
+            packet.data   = bytes;
+            packet.Write(array);
+            NetConnectManager.instance.Send(appectID,packet);
+       }
     }
 
 

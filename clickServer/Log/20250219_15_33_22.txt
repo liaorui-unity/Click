@@ -1,0 +1,266 @@
+﻿Server: Start port=7777
+Server: listening port=7777
+Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPServerSocket - Start frame:0
+[info]TCPServerSocket - Start frame:0
+开始同步服务端数据
+messge:{"group":"","name":"1893180622","ip":"192.168.0.157","time":17399504024.0}
+netPlayer.messge{"group":"","name":"1893180622","ip":"192.168.0.157","time":17399504024.0}
+[info]OnChannelAccept:1 frame:0
+[info]OnChannelAccept:1 frame:0
+连接成功
+[info]接收数据长度：13 frame:0
+[info]接收数据长度：13 frame:0
+[info]解析数据长度：13_9 frame:0
+[info]解析数据长度：13_9 frame:0
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+type:
+接受成功
+[info]接收数据长度：4380 frame:0
+[info]接收数据长度：4380 frame:0
+[info]解析数据长度：4382_566848355 frame:0
+[info]解析数据长度：4382_566848355 frame:0
+[info]接收数据长度：195640 frame:0
+[info]接收数据长度：195640 frame:0
+[info]解析数据长度：200022_566848355 frame:0
+[info]解析数据长度：200022_566848355 frame:0
+[info]接收数据长度：77380 frame:0
+[info]接收数据长度：77380 frame:0
+[info]解析数据长度：277402_566848355 frame:0
+[info]解析数据长度：277402_566848355 frame:0
+[info]接收数据长度：64240 frame:0
+[info]接收数据长度：64240 frame:0
+[info]解析数据长度：341642_566848355 frame:0
+[info]解析数据长度：341642_566848355 frame:0
+[info]接收数据长度：77380 frame:0
+[info]接收数据长度：77380 frame:0
+[info]解析数据长度：419022_566848355 frame:0
+[info]解析数据长度：419022_566848355 frame:0
+[info]接收数据长度：90520 frame:0
+[info]接收数据长度：90520 frame:0
+[info]解析数据长度：509542_566848355 frame:0
+[info]解析数据长度：509542_566848355 frame:0
+[info]接收数据长度：18980 frame:0
+[info]接收数据长度：18980 frame:0
+[info]解析数据长度：528522_566848355 frame:0
+[info]解析数据长度：528522_566848355 frame:0
+[info]接收数据长度：5840 frame:0
+[info]接收数据长度：5840 frame:0
+[info]解析数据长度：534362_566848355 frame:0
+[info]解析数据长度：534362_566848355 frame:0
+[info]接收数据长度：108040 frame:0
+[info]接收数据长度：108040 frame:0
+[info]解析数据长度：642402_566848355 frame:0
+[info]解析数据长度：642402_566848355 frame:0
+[info]接收数据长度：78840 frame:0
+[info]接收数据长度：78840 frame:0
+[info]解析数据长度：721242_566848355 frame:0
+[info]解析数据长度：721242_566848355 frame:0
+[info]接收数据长度：96360 frame:0
+[info]接收数据长度：96360 frame:0
+[info]解析数据长度：817602_566848355 frame:0
+[info]解析数据长度：817602_566848355 frame:0
+[info]接收数据长度：43021 frame:0
+[info]接收数据长度：43021 frame:0
+[info]解析数据长度：860623_566848355 frame:0
+[info]解析数据长度：860623_566848355 frame:0
+[info]接收数据长度：7300 frame:0
+[info]接收数据长度：7300 frame:0
+[info]解析数据长度：867923_566848355 frame:0
+[info]解析数据长度：867923_566848355 frame:0
+[info]接收数据长度：124100 frame:0
+[info]接收数据长度：124100 frame:0
+[info]解析数据长度：992023_566848355 frame:0
+[info]解析数据长度：992023_566848355 frame:0
+[info]接收数据长度：134320 frame:0
+[info]接收数据长度：134320 frame:0
+[info]解析数据长度：1126343_566848355 frame:0
+[info]解析数据长度：1126343_566848355 frame:0
+[info]接收数据长度：134320 frame:0
+[info]接收数据长度：134320 frame:0
+[info]解析数据长度：1260663_566848355 frame:0
+[info]解析数据长度：1260663_566848355 frame:0
+[info]接收数据长度：108040 frame:0
+[info]接收数据长度：108040 frame:0
+[info]解析数据长度：1368703_566848355 frame:0
+[info]解析数据长度：1368703_566848355 frame:0
+[info]接收数据长度：20440 frame:0
+[info]接收数据长度：20440 frame:0
+[info]解析数据长度：1389143_566848355 frame:0
+[info]解析数据长度：1389143_566848355 frame:0
+[info]接收数据长度：2920 frame:0
+[info]接收数据长度：2920 frame:0
+[info]解析数据长度：1392063_566848355 frame:0
+[info]解析数据长度：1392063_566848355 frame:0
+[info]接收数据长度：124100 frame:0
+[info]接收数据长度：124100 frame:0
+[info]解析数据长度：1516163_566848355 frame:0
+[info]解析数据长度：1516163_566848355 frame:0
+[info]接收数据长度：112420 frame:0
+[info]接收数据长度：112420 frame:0
+[info]解析数据长度：1628583_566848355 frame:0
+[info]解析数据长度：1628583_566848355 frame:0
+[info]接收数据长度：92661 frame:0
+[info]接收数据长度：92661 frame:0
+[info]解析数据长度：1721244_566848355 frame:0
+[info]解析数据长度：1721244_566848355 frame:0
+[info]接收数据长度：10220 frame:0
+[info]接收数据长度：10220 frame:0
+[info]解析数据长度：1731464_566848355 frame:0
+[info]解析数据长度：1731464_566848355 frame:0
+[info]接收数据长度：121180 frame:0
+[info]接收数据长度：121180 frame:0
+[info]解析数据长度：1852644_566848355 frame:0
+[info]解析数据长度：1852644_566848355 frame:0
+[info]接收数据长度：169360 frame:0
+[info]接收数据长度：169360 frame:0
+[info]解析数据长度：2022004_566848355 frame:0
+[info]解析数据长度：2022004_566848355 frame:0
+[info]接收数据长度：151840 frame:0
+[info]接收数据长度：151840 frame:0
+[info]解析数据长度：2173844_566848355 frame:0
+[info]解析数据长度：2173844_566848355 frame:0
+[info]接收数据长度：75920 frame:0
+[info]接收数据长度：75920 frame:0
+[info]解析数据长度：2249764_566848355 frame:0
+[info]解析数据长度：2249764_566848355 frame:0
+[info]接收数据长度：26280 frame:0
+[info]接收数据长度：26280 frame:0
+[info]解析数据长度：2276044_566848355 frame:0
+[info]解析数据长度：2276044_566848355 frame:0
+[info]接收数据长度：242360 frame:0
+[info]接收数据长度：242360 frame:0
+[info]解析数据长度：2518404_566848355 frame:0
+[info]解析数据长度：2518404_566848355 frame:0
+[info]接收数据长度：2920 frame:0
+[info]接收数据长度：2920 frame:0
+[info]解析数据长度：2521324_566848355 frame:0
+[info]解析数据长度：2521324_566848355 frame:0
+[info]接收数据长度：60541 frame:0
+[info]接收数据长度：60541 frame:0
+[info]解析数据长度：2581865_566848355 frame:0
+[info]解析数据长度：2581865_566848355 frame:0
+[info]接收数据长度：8760 frame:0
+[info]接收数据长度：8760 frame:0
+[info]解析数据长度：2590625_566848355 frame:0
+[info]解析数据长度：2590625_566848355 frame:0
+[info]接收数据长度：70080 frame:0
+[info]接收数据长度：70080 frame:0
+[info]解析数据长度：2660705_566848355 frame:0
+[info]解析数据长度：2660705_566848355 frame:0
+[info]接收数据长度：137240 frame:0
+[info]接收数据长度：137240 frame:0
+[info]解析数据长度：2797945_566848355 frame:0
+[info]解析数据长度：2797945_566848355 frame:0
+[info]接收数据长度：127020 frame:0
+[info]接收数据长度：127020 frame:0
+[info]解析数据长度：2924965_566848355 frame:0
+[info]解析数据长度：2924965_566848355 frame:0
+[info]接收数据长度：121180 frame:0
+[info]接收数据长度：121180 frame:0
+[info]解析数据长度：3046145_566848355 frame:0
+[info]解析数据长度：3046145_566848355 frame:0
+[info]接收数据长度：64240 frame:0
+[info]接收数据长度：64240 frame:0
+[info]解析数据长度：3110385_566848355 frame:0
+[info]解析数据长度：3110385_566848355 frame:0
+[info]接收数据长度：58400 frame:0
+[info]接收数据长度：58400 frame:0
+<color=red>[error]</color>ByteArray::Resize 缓冲区溢出:4718592 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.ByteArray:Resize (int)
+fs.ByteArray:Write (byte[],int,int)
+fs.ByteArray:Write (byte[],int)
+fs.ByteArray:WriteBytes (byte[],int)
+fs.NetChannel:HandleReceive (byte[],int,System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Scripts/Plugins/Network/channel/NetChannel.cs:56)
+fs.TCPNetAccepter:OnMessageReveived (long,byte[],int) (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:146)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>ByteArray::Resize 缓冲区溢出:4718592 frame:0
+[info]解析数据长度：3168785_566848355 frame:0
+[info]解析数据长度：3168785_566848355 frame:0
+[info]接收数据长度：273701 frame:0
+[info]接收数据长度：273701 frame:0
+[info]解析数据长度：3442486_566848355 frame:0
+[info]解析数据长度：3442486_566848355 frame:0
+[info]接收数据长度：7300 frame:0
+[info]接收数据长度：7300 frame:0
+[info]解析数据长度：3449786_566848355 frame:0
+[info]解析数据长度：3449786_566848355 frame:0
+[info]接收数据长度：140160 frame:0
+[info]接收数据长度：140160 frame:0
+[info]解析数据长度：3589946_566848355 frame:0
+[info]解析数据长度：3589946_566848355 frame:0
+[info]接收数据长度：119720 frame:0
+[info]接收数据长度：119720 frame:0
+[info]解析数据长度：3709666_566848355 frame:0
+[info]解析数据长度：3709666_566848355 frame:0
+[info]接收数据长度：91980 frame:0
+[info]接收数据长度：91980 frame:0
+[info]解析数据长度：3801646_566848355 frame:0
+[info]解析数据长度：3801646_566848355 frame:0
+[info]接收数据长度：81760 frame:0
+[info]接收数据长度：81760 frame:0
+[info]解析数据长度：3883406_566848355 frame:0
+[info]解析数据长度：3883406_566848355 frame:0
+[info]接收数据长度：87600 frame:0
+[info]接收数据长度：87600 frame:0
+[info]解析数据长度：3971006_566848355 frame:0
+[info]解析数据长度：3971006_566848355 frame:0
+[info]接收数据长度：8760 frame:0
+[info]接收数据长度：8760 frame:0
+[info]解析数据长度：3979766_566848355 frame:0
+[info]解析数据长度：3979766_566848355 frame:0
+[info]接收数据长度：157680 frame:0
+[info]接收数据长度：157680 frame:0
+[info]解析数据长度：4137446_566848355 frame:0
+[info]解析数据长度：4137446_566848355 frame:0
+[info]接收数据长度：165661 frame:0
+[info]接收数据长度：165661 frame:0
+<color=red>[error]</color>ByteArray::Resize 缓冲区溢出:6291456 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.ByteArray:Resize (int)
+fs.ByteArray:Write (byte[],int,int)
+fs.ByteArray:Write (byte[],int)
+fs.ByteArray:WriteBytes (byte[],int)
+fs.NetChannel:HandleReceive (byte[],int,System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Scripts/Plugins/Network/channel/NetChannel.cs:56)
+fs.TCPNetAccepter:OnMessageReveived (long,byte[],int) (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:146)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>ByteArray::Resize 缓冲区溢出:6291456 frame:0
+<color=red>[error]</color>System.ArgumentException: Destination array was not long enough. Check destIndex and length, and the array's lower bounds
+Parameter name: destinationArray
+  at System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) [0x000cb] in <88e4733ac7bc4ae1b496735e6b83bbd3>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 start_index, System.Int32 len) [0x00098] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 len) [0x00001] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.WriteBytes (System.Byte[] buf, System.Int32 len) [0x00001] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x0001e] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:56 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:146 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>System.ArgumentException: Destination array was not long enough. Check destIndex and length, and the array's lower bounds
+Parameter name: destinationArray
+  at System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) [0x000cb] in <88e4733ac7bc4ae1b496735e6b83bbd3>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 start_index, System.Int32 len) [0x00098] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 len) [0x00001] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.WriteBytes (System.Byte[] buf, System.Int32 len) [0x00001] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x0001e] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:56 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:146 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+[info]OnChannelClose:1 frame:0
+[info]OnChannelClose:1 frame:0
+连接关闭
+OnApplicationQuit: stopped client
+Server: stopping...
+OnApplicationQuit: stopped server
+TelepathyTransport Shutdown()

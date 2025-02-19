@@ -28,12 +28,11 @@ public class Host : MonoBehaviour
     public void OnConnected(long _)
     {
         Debug.Log("连接成功");
+
     }
     public void OnRect(long _,PacketBase packet)
     {
         Debug.Log("接受成功");
-         
-        tCPNetAccepter.Send(_,packet);
 
         if(packet is FunctionPackage functionPackage)
         {
@@ -54,8 +53,9 @@ public class Host : MonoBehaviour
             Texture2D texture = new Texture2D(texturePacket.width,texturePacket.height);
             texture.LoadImage(texturePacket.data);
             image.sprite = Sprite.Create(texture,new Rect(0,0,texture.width,texture.height),new Vector2(0.5f,0.5f));
-        }
+            image.rectTransform.sizeDelta = new Vector2(540 ,960);
 
+        }
     }
 
     public void OnClose(long _)

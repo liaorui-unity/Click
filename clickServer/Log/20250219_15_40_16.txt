@@ -1,0 +1,395 @@
+﻿Server: Start port=7777
+Server: listening port=7777
+Replacing existing prefab with assetId 'ce700b6c-1c4b-ecf4-e86b-9f6c0e26e626'. Old prefab 'NetPlayer', New prefab 'NetPlayer'
+[info]TCPServerSocket - Start frame:0
+[info]TCPServerSocket - Start frame:0
+开始同步服务端数据
+messge:{"group":"","name":"1096988164","ip":"192.168.0.157","time":17399508161.0}
+netPlayer.messge{"group":"","name":"1096988164","ip":"192.168.0.157","time":17399508161.0}
+[info]OnChannelAccept:1 frame:0
+[info]OnChannelAccept:1 frame:0
+连接成功
+[info]接收数据长度：13 frame:0
+[info]接收数据长度：13 frame:0
+[info]解析数据长度：13_9 frame:0
+[info]解析数据长度：13_9 frame:0
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+type:Check
+接受成功
+[info]接收数据长度：4380 frame:0
+[info]接收数据长度：4380 frame:0
+[info]解析数据长度：4380_72992 frame:0
+[info]解析数据长度：4380_72992 frame:0
+[info]接收数据长度：68616 frame:0
+[info]接收数据长度：68616 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：8760 frame:0
+[info]接收数据长度：8760 frame:0
+[info]解析数据长度：8760_72992 frame:0
+[info]解析数据长度：8760_72992 frame:0
+[info]接收数据长度：64236 frame:0
+[info]接收数据长度：64236 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：14600 frame:0
+[info]接收数据长度：14600 frame:0
+[info]解析数据长度：14600_72992 frame:0
+[info]解析数据长度：14600_72992 frame:0
+[info]接收数据长度：58396 frame:0
+[info]接收数据长度：58396 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：8760 frame:0
+[info]接收数据长度：8760 frame:0
+[info]解析数据长度：8760_72992 frame:0
+[info]解析数据长度：8760_72992 frame:0
+[info]接收数据长度：64236 frame:0
+[info]接收数据长度：64236 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：14600 frame:0
+[info]接收数据长度：14600 frame:0
+[info]解析数据长度：14600_72992 frame:0
+[info]解析数据长度：14600_72992 frame:0
+[info]接收数据长度：58396 frame:0
+[info]接收数据长度：58396 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：10220 frame:0
+[info]接收数据长度：10220 frame:0
+[info]解析数据长度：10220_72992 frame:0
+[info]解析数据长度：10220_72992 frame:0
+[info]接收数据长度：62776 frame:0
+[info]接收数据长度：62776 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：10220 frame:0
+[info]接收数据长度：10220 frame:0
+[info]解析数据长度：10220_72992 frame:0
+[info]解析数据长度：10220_72992 frame:0
+[info]接收数据长度：62776 frame:0
+[info]接收数据长度：62776 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：7300 frame:0
+[info]接收数据长度：7300 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]接收数据长度：65696 frame:0
+[info]接收数据长度：65696 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：8760 frame:0
+[info]接收数据长度：8760 frame:0
+[info]解析数据长度：8760_72992 frame:0
+[info]解析数据长度：8760_72992 frame:0
+[info]接收数据长度：64236 frame:0
+[info]接收数据长度：64236 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：7300 frame:0
+[info]接收数据长度：7300 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]接收数据长度：65696 frame:0
+[info]接收数据长度：65696 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：7300 frame:0
+[info]接收数据长度：7300 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]接收数据长度：65696 frame:0
+[info]接收数据长度：65696 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：7300 frame:0
+[info]接收数据长度：7300 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]接收数据长度：65696 frame:0
+[info]接收数据长度：65696 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：5840 frame:0
+[info]接收数据长度：5840 frame:0
+[info]解析数据长度：5840_72992 frame:0
+[info]解析数据长度：5840_72992 frame:0
+[info]接收数据长度：67156 frame:0
+[info]接收数据长度：67156 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：17520 frame:0
+[info]接收数据长度：17520 frame:0
+[info]解析数据长度：17520_72992 frame:0
+[info]解析数据长度：17520_72992 frame:0
+[info]接收数据长度：55476 frame:0
+[info]接收数据长度：55476 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：7300 frame:0
+[info]接收数据长度：7300 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]接收数据长度：65696 frame:0
+[info]接收数据长度：65696 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：5840 frame:0
+[info]接收数据长度：5840 frame:0
+[info]解析数据长度：5840_72992 frame:0
+[info]解析数据长度：5840_72992 frame:0
+[info]接收数据长度：67156 frame:0
+[info]接收数据长度：67156 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：7300 frame:0
+[info]接收数据长度：7300 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]接收数据长度：65696 frame:0
+[info]接收数据长度：65696 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：20440 frame:0
+[info]接收数据长度：20440 frame:0
+[info]解析数据长度：20440_72992 frame:0
+[info]解析数据长度：20440_72992 frame:0
+[info]接收数据长度：52556 frame:0
+[info]接收数据长度：52556 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：11680 frame:0
+[info]接收数据长度：11680 frame:0
+[info]解析数据长度：11680_72992 frame:0
+[info]解析数据长度：11680_72992 frame:0
+[info]接收数据长度：61316 frame:0
+[info]接收数据长度：61316 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：7300 frame:0
+[info]接收数据长度：7300 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]接收数据长度：65696 frame:0
+[info]接收数据长度：65696 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：8760 frame:0
+[info]接收数据长度：8760 frame:0
+[info]解析数据长度：8760_72992 frame:0
+[info]解析数据长度：8760_72992 frame:0
+[info]接收数据长度：64236 frame:0
+[info]接收数据长度：64236 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：7300 frame:0
+[info]接收数据长度：7300 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]解析数据长度：7300_72992 frame:0
+[info]接收数据长度：65696 frame:0
+[info]接收数据长度：65696 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+[info]接收数据长度：8760 frame:0
+[info]接收数据长度：8760 frame:0
+[info]解析数据长度：8760_72992 frame:0
+[info]解析数据长度：8760_72992 frame:0
+[info]接收数据长度：35040 frame:0
+[info]接收数据长度：35040 frame:0
+[info]解析数据长度：43800_72992 frame:0
+[info]解析数据长度：43800_72992 frame:0
+[info]接收数据长度：29196 frame:0
+[info]接收数据长度：29196 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]解析数据长度：72996_72992 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:72969
+接受成功
+接收到图片
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:72969
+OnApplicationQuit: stopped client
+Server: stopping...
+OnApplicationQuit: stopped server
+TelepathyTransport Shutdown()
