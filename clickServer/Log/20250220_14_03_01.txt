@@ -1,0 +1,35 @@
+﻿[info]TCPServerSocket - Start frame:0
+[info]TCPServerSocket - Start frame:0
+连接成功
+[info]接收数据长度：15 frame:0
+[info]接收数据长度：15 frame:0
+[info]解析数据长度：15_11 frame:0
+[info]解析数据长度：15_11 frame:0
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+接受成功
+接收到控制包:1
+<color=red>[error]</color>System.NullReferenceException: Object reference not set to an instance of an object
+  at Host.OnRect (System.Int64 _, fs.PacketBase packet) [0x00091] in E:\Project\clicker\clickServer\Assets\Scripts\Host.cs:45 
+  at fs.TCPNetBase.Update () [0x00019] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetBase.cs:49  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPNetBase:Update () (at Assets/Scripts/Plugins/Network/net/TCPNetBase.cs:53)
+fs.TCPNetAccepter:Update () (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:64)
+Host:Update () (at Assets/Scripts/Host.cs:76)
+
+<color=red>[error]</color>System.NullReferenceException: Object reference not set to an instance of an object
+  at Host.OnRect (System.Int64 _, fs.PacketBase packet) [0x00091] in E:\Project\clicker\clickServer\Assets\Scripts\Host.cs:45 
+  at fs.TCPNetBase.Update () [0x00019] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetBase.cs:49  frame:0
+[info]OnChannelClose:1 frame:0
+[info]OnChannelClose:1 frame:0
+连接关闭
+NullReferenceException: Object reference not set to an instance of an object
+Host.OnClose (System.Int64 _) (at Assets/Scripts/Host.cs:69)
+fs.TCPNetAccepter.HanldeCloseConnect (System.Int64 conn_idx) (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:177)
+fs.TCPNetAccepter.OnConnectClose (System.Int64 conn_idx) (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:160)
+fs.TCPServerSocket.Close () (at <5febb1fdf85c48578e4fae6fc5788926>:0)
+fs.TCPNetAccepter.Close () (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:43)
+Host.OnDestroy () (at Assets/Scripts/Host.cs:82)
+

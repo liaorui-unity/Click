@@ -68,7 +68,7 @@ namespace fs
         public static ByteArray AllocSendPacket()
         {
             tmpSendBy.Clear();
-            tmpSendBy.WriteUShort(0);//协议头，包长度
+            tmpSendBy.WriteInt(0);//协议头，包长度
             return tmpSendBy;
         }
 

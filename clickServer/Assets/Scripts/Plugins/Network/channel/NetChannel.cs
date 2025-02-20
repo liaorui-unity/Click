@@ -52,7 +52,6 @@ namespace fs
         {
             if (by == null || by.Length == 0) return;
 
-Debuger.Log("接收数据长度："+count);
             m_by_buffer.WriteBytes(by, count);
             ParsePacket(callback);
         }
@@ -69,8 +68,6 @@ Debuger.Log("接收数据长度："+count);
                 {
                     int msg_length = BitConverter.ToInt32(head_by, 0);
                     
-                    Debuger.Log("解析数据长度："+m_by_buffer.Available+"_"+ msg_length);
-
                     if (m_by_buffer.Available >= msg_length + SocketID.PacketHeadSize)
                     {
                         //读取包数据

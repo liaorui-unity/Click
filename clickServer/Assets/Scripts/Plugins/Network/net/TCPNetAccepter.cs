@@ -110,14 +110,13 @@ namespace fs
                 return 0;
             }
             int data_len = by.Available - SocketID.PacketHeadSize;
-            by.ModifyUShort((ushort)data_len, 0);
+            by.ModifyInt((int)data_len, 0);
 
             m_socket.Send(conn_idx, by.GetBuffer(), 0, (int)by.Available);
             return (int)by.Available;
         }
         private void OnAcceptConnect(long conn_idx)
         {
-            Debuger.Log("OnChannelAccept:" + conn_idx);
             lock (ThreadScheduler.instance.LogicLock)
             {
                 if (ClientSessionManager.instance.IsConnectedFull())

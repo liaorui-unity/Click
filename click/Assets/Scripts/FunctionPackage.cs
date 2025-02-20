@@ -3,6 +3,27 @@ using System.Collections.Generic;
 using fs;
 using UnityEngine;
 
+
+[PacketAttribute(Id = 1003)]
+public class MousePackage : PacketBase
+{
+    public int x;
+    public int y;
+  
+    public override void Read(ByteArray by)
+    {
+        base.Read(by);
+        x = by.ReadInt();
+        y = by.ReadInt();
+    }
+    public override void Write(ByteArray by)
+    {
+        base.Write(by);
+        by.WriteInt(x);
+        by.WriteInt(y);
+    }
+}
+
 [PacketAttribute(Id = 1002)]
 public class FunctionPackage : PacketBase
 {

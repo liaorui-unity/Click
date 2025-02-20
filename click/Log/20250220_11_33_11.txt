@@ -1,0 +1,121 @@
+﻿[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - Connect frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]TCPClientSocket - OnConnected frame:0
+[info]OnChannelConnect:0 frame:0
+[info]OnChannelConnect:0 frame:0
+连接成功
+[info]发送协议:1002 frame:0
+[info]发送协议:1002 frame:0
+[info]接收数据长度：14 frame:0
+[info]接收数据长度：14 frame:0
+[info]解析数据长度：10 frame:0
+[info]解析数据长度：10 frame:0
+[info]收到协议:1003 frame:0
+[info]收到协议:1003 frame:0
+连接成功
+<color=red>[error]</color>System.Exception: Field currentActivity or type signature  not found
+  at UnityEngine._AndroidJNIHelper.GetFieldID (System.IntPtr jclass, System.String fieldName, System.String signature, System.Boolean isStatic) [0x00082] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJNIHelper.GetFieldID (System.IntPtr javaClass, System.String fieldName, System.String signature, System.Boolean isStatic) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine._AndroidJNIHelper.GetFieldID[ReturnType] (System.IntPtr jclass, System.String fieldName, System.Boolean isStatic) [0x00012] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJNIHelper.GetFieldID[FieldType] (System.IntPtr jclass, System.String fieldName, System.Boolean isStatic) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJavaObject._GetStatic[FieldType] (System.String fieldName) [0x0000c] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJavaObject.GetStatic[FieldType] (System.String fieldName) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at Heart.Click (System.Int32 x, System.Int32 y) [0x00041] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:173 
+  at Heart.RecvClick (System.Int32 x, System.Int32 y) [0x00000] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:181 
+  at Heart.OnRect (System.Int64 _, fs.PacketBase packet) [0x00019] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:104 
+  at fs.TCPNetBase.Update () [0x00019] in E:\Project\clicker\click\Assets\Network\net\TCPNetBase.cs:49  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPNetBase:Update () (at Assets/Network/net/TCPNetBase.cs:53)
+fs.TCPNetConnecter:Update () (at Assets/Network/net/TCPNetConnecter.cs:56)
+fs.NetConnectManager:Update () (at Assets/Network/NetConnectManager.cs:30)
+Heart:Update () (at Assets/Scripts/Heart.cs:195)
+
+<color=red>[error]</color>System.Exception: Field currentActivity or type signature  not found
+  at UnityEngine._AndroidJNIHelper.GetFieldID (System.IntPtr jclass, System.String fieldName, System.String signature, System.Boolean isStatic) [0x00082] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJNIHelper.GetFieldID (System.IntPtr javaClass, System.String fieldName, System.String signature, System.Boolean isStatic) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine._AndroidJNIHelper.GetFieldID[ReturnType] (System.IntPtr jclass, System.String fieldName, System.Boolean isStatic) [0x00012] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJNIHelper.GetFieldID[FieldType] (System.IntPtr jclass, System.String fieldName, System.Boolean isStatic) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJavaObject._GetStatic[FieldType] (System.String fieldName) [0x0000c] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJavaObject.GetStatic[FieldType] (System.String fieldName) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at Heart.Click (System.Int32 x, System.Int32 y) [0x00041] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:173 
+  at Heart.RecvClick (System.Int32 x, System.Int32 y) [0x00000] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:181 
+  at Heart.OnRect (System.Int64 _, fs.PacketBase packet) [0x00019] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:104 
+  at fs.TCPNetBase.Update () [0x00019] in E:\Project\clicker\click\Assets\Network\net\TCPNetBase.cs:49  frame:0
+[info]接收数据长度：14 frame:0
+[info]接收数据长度：14 frame:0
+[info]解析数据长度：10 frame:0
+[info]解析数据长度：10 frame:0
+[info]收到协议:1003 frame:0
+[info]收到协议:1003 frame:0
+连接成功
+<color=red>[error]</color>System.Exception: Field currentActivity or type signature  not found
+  at UnityEngine._AndroidJNIHelper.GetFieldID (System.IntPtr jclass, System.String fieldName, System.String signature, System.Boolean isStatic) [0x00082] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJNIHelper.GetFieldID (System.IntPtr javaClass, System.String fieldName, System.String signature, System.Boolean isStatic) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine._AndroidJNIHelper.GetFieldID[ReturnType] (System.IntPtr jclass, System.String fieldName, System.Boolean isStatic) [0x00012] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJNIHelper.GetFieldID[FieldType] (System.IntPtr jclass, System.String fieldName, System.Boolean isStatic) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJavaObject._GetStatic[FieldType] (System.String fieldName) [0x0000c] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJavaObject.GetStatic[FieldType] (System.String fieldName) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at Heart.Click (System.Int32 x, System.Int32 y) [0x00041] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:173 
+  at Heart.RecvClick (System.Int32 x, System.Int32 y) [0x00000] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:181 
+  at Heart.OnRect (System.Int64 _, fs.PacketBase packet) [0x00019] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:104 
+  at fs.TCPNetBase.Update () [0x00019] in E:\Project\clicker\click\Assets\Network\net\TCPNetBase.cs:49  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPNetBase:Update () (at Assets/Network/net/TCPNetBase.cs:53)
+fs.TCPNetConnecter:Update () (at Assets/Network/net/TCPNetConnecter.cs:56)
+fs.NetConnectManager:Update () (at Assets/Network/NetConnectManager.cs:30)
+Heart:Update () (at Assets/Scripts/Heart.cs:195)
+
+<color=red>[error]</color>System.Exception: Field currentActivity or type signature  not found
+  at UnityEngine._AndroidJNIHelper.GetFieldID (System.IntPtr jclass, System.String fieldName, System.String signature, System.Boolean isStatic) [0x00082] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJNIHelper.GetFieldID (System.IntPtr javaClass, System.String fieldName, System.String signature, System.Boolean isStatic) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine._AndroidJNIHelper.GetFieldID[ReturnType] (System.IntPtr jclass, System.String fieldName, System.Boolean isStatic) [0x00012] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJNIHelper.GetFieldID[FieldType] (System.IntPtr jclass, System.String fieldName, System.Boolean isStatic) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJavaObject._GetStatic[FieldType] (System.String fieldName) [0x0000c] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJavaObject.GetStatic[FieldType] (System.String fieldName) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at Heart.Click (System.Int32 x, System.Int32 y) [0x00041] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:173 
+  at Heart.RecvClick (System.Int32 x, System.Int32 y) [0x00000] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:181 
+  at Heart.OnRect (System.Int64 _, fs.PacketBase packet) [0x00019] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:104 
+  at fs.TCPNetBase.Update () [0x00019] in E:\Project\clicker\click\Assets\Network\net\TCPNetBase.cs:49  frame:0
+[info]接收数据长度：14 frame:0
+[info]接收数据长度：14 frame:0
+[info]解析数据长度：10 frame:0
+[info]解析数据长度：10 frame:0
+[info]收到协议:1003 frame:0
+[info]收到协议:1003 frame:0
+连接成功
+<color=red>[error]</color>System.Exception: Field currentActivity or type signature  not found
+  at UnityEngine._AndroidJNIHelper.GetFieldID (System.IntPtr jclass, System.String fieldName, System.String signature, System.Boolean isStatic) [0x00082] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJNIHelper.GetFieldID (System.IntPtr javaClass, System.String fieldName, System.String signature, System.Boolean isStatic) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine._AndroidJNIHelper.GetFieldID[ReturnType] (System.IntPtr jclass, System.String fieldName, System.Boolean isStatic) [0x00012] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJNIHelper.GetFieldID[FieldType] (System.IntPtr jclass, System.String fieldName, System.Boolean isStatic) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJavaObject._GetStatic[FieldType] (System.String fieldName) [0x0000c] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJavaObject.GetStatic[FieldType] (System.String fieldName) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at Heart.Click (System.Int32 x, System.Int32 y) [0x00041] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:173 
+  at Heart.RecvClick (System.Int32 x, System.Int32 y) [0x00000] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:181 
+  at Heart.OnRect (System.Int64 _, fs.PacketBase packet) [0x00019] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:104 
+  at fs.TCPNetBase.Update () [0x00019] in E:\Project\clicker\click\Assets\Network\net\TCPNetBase.cs:49  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPNetBase:Update () (at Assets/Network/net/TCPNetBase.cs:53)
+fs.TCPNetConnecter:Update () (at Assets/Network/net/TCPNetConnecter.cs:56)
+fs.NetConnectManager:Update () (at Assets/Network/NetConnectManager.cs:30)
+Heart:Update () (at Assets/Scripts/Heart.cs:195)
+
+<color=red>[error]</color>System.Exception: Field currentActivity or type signature  not found
+  at UnityEngine._AndroidJNIHelper.GetFieldID (System.IntPtr jclass, System.String fieldName, System.String signature, System.Boolean isStatic) [0x00082] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJNIHelper.GetFieldID (System.IntPtr javaClass, System.String fieldName, System.String signature, System.Boolean isStatic) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine._AndroidJNIHelper.GetFieldID[ReturnType] (System.IntPtr jclass, System.String fieldName, System.Boolean isStatic) [0x00012] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJNIHelper.GetFieldID[FieldType] (System.IntPtr jclass, System.String fieldName, System.Boolean isStatic) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJavaObject._GetStatic[FieldType] (System.String fieldName) [0x0000c] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at UnityEngine.AndroidJavaObject.GetStatic[FieldType] (System.String fieldName) [0x00001] in <bf17fa6ab90a4da49a342edd7b07721d>:0 
+  at Heart.Click (System.Int32 x, System.Int32 y) [0x00041] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:173 
+  at Heart.RecvClick (System.Int32 x, System.Int32 y) [0x00000] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:181 
+  at Heart.OnRect (System.Int64 _, fs.PacketBase packet) [0x00019] in E:\Project\clicker\click\Assets\Scripts\Heart.cs:104 
+  at fs.TCPNetBase.Update () [0x00019] in E:\Project\clicker\click\Assets\Network\net\TCPNetBase.cs:49  frame:0
+TelepathyTransport Shutdown()

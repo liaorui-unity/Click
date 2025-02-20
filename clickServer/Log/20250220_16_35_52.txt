@@ -1,0 +1,2045 @@
+﻿[info]TCPServerSocket - Start frame:0
+[info]TCPServerSocket - Start frame:0
+连接成功
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+接受成功
+接收到监控包:1
+连接成功
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+接受成功
+接收到控制包:2
+[info]收到协议:1003 frame:0
+[info]收到协议:1003 frame:0
+接受成功
+[info]发送协议:1003 frame:0
+[info]发送协议:1003 frame:0
+[info]收到协议:1003 frame:0
+[info]收到协议:1003 frame:0
+接受成功
+[info]发送协议:1003 frame:0
+[info]发送协议:1003 frame:0
+[info]收到协议:1003 frame:0
+[info]收到协议:1003 frame:0
+接受成功
+[info]发送协议:1003 frame:0
+[info]发送协议:1003 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923827
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923827
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922591
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922591
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923709
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923709
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920968
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920968
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923446
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923446
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922995
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922995
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923853
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923853
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922466
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922466
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923838
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923838
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922650
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922650
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923691
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923691
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920886
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920886
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923738
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923738
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921009
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921009
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923486
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923486
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922660
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922660
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923515
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923515
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920780
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920780
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923672
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923672
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921008
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921008
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923676
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923676
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922566
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922566
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923703
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923703
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920969
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920969
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923706
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923706
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920994
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920994
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923152
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923152
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922915
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922915
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923268
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923268
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923085
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923085
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923271
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923271
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923110
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923110
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923301
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923301
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923052
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923052
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923829
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923829
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921011
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921011
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923677
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923677
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920964
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920964
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923265
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923265
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923201
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923201
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923383
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923383
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923241
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923241
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923409
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923409
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923573
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923573
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923116
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923116
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923584
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923584
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923000
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923000
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923480
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923480
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923134
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923134
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923929
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923929
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922793
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922793
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923946
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923946
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922743
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922743
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923922
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923922
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922758
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922758
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923815
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923815
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922578
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922578
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923892
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923892
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921168
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921168
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923589
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923589
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922987
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922987
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923600
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923600
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923146
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923146
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923919
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923919
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922752
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922752
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923831
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923831
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922641
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922641
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923849
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923849
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921249
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921249
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923796
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923796
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921079
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921079
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923864
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923864
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922760
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922760
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923969
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923969
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922801
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922801
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923727
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923727
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920961
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920961
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923611
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923611
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921110
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921110
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923722
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923722
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923134
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923134
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923376
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923376
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923079
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923079
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923353
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923353
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923159
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923159
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923282
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923282
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923034
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923034
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923269
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923269
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923592
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923592
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923112
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923112
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923626
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923626
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923131
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923131
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923204
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923204
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923410
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923410
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923601
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923601
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922943
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922943
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923451
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923451
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923108
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923108
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923520
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923520
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922679
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922679
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923898
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923898
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923389
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923389
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923505
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923505
+[info]OnChannelClose:1 frame:0
+[info]OnChannelClose:1 frame:0
+连接关闭
+<color=red>[error]</color>UnityEngine.UnityException: get_isActiveAndEnabled can only be called from the main thread.
+Constructors and field initializers will be executed from the loading thread when loading a scene.
+Don't use this function in the constructor or field initializers, instead move initialization code to the Awake or Start function.
+  at (wrapper managed-to-native) UnityEngine.Behaviour.get_isActiveAndEnabled(UnityEngine.Behaviour)
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\EventSystem\UIBehaviour.cs:28 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Graphic.cs:295 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x0003d] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Text.cs:218 
+  at Host.OnClose (System.Int64 _) [0x0001b] in E:\Project\clicker\clickServer\Assets\Scripts\Host.cs:71 
+  at fs.TCPNetAccepter.HanldeCloseConnect (System.Int64 conn_idx) [0x00031] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:177 
+  at fs.TCPNetAccepter.OnConnectClose (System.Int64 conn_idx) [0x0004c] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:160 
+  at fs.TCPServerSocket.CloseClientSocket (System.Int64 conn_idx) [0x00098] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000f9] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>UnityEngine.UnityException: get_isActiveAndEnabled can only be called from the main thread.
+Constructors and field initializers will be executed from the loading thread when loading a scene.
+Don't use this function in the constructor or field initializers, instead move initialization code to the Awake or Start function.
+  at (wrapper managed-to-native) UnityEngine.Behaviour.get_isActiveAndEnabled(UnityEngine.Behaviour)
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\EventSystem\UIBehaviour.cs:28 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Graphic.cs:295 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x0003d] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Text.cs:218 
+  at Host.OnClose (System.Int64 _) [0x0001b] in E:\Project\clicker\clickServer\Assets\Scripts\Host.cs:71 
+  at fs.TCPNetAccepter.HanldeCloseConnect (System.Int64 conn_idx) [0x00031] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:177 
+  at fs.TCPNetAccepter.OnConnectClose (System.Int64 conn_idx) [0x0004c] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:160 
+  at fs.TCPServerSocket.CloseClientSocket (System.Int64 conn_idx) [0x00098] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000f9] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+连接成功
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+接受成功
+接收到监控包:3
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921612
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921612
+连接成功
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+接受成功
+接收到监控包:4
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921560
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921560
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920635
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920635
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:918807
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:918807
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921162
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921162
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921018
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921018
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920149
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920149
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920687
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920687
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921651
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921651
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921062
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921062
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920138
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920138
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920705
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920705
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921081
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921081
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920180
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920180
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920735
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920735
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921531
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921531
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920979
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920979
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920051
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920051
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920742
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920742
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921556
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921556
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920761
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920761
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:918888
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:918888
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921282
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921282
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921580
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921580
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920786
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920786
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:918926
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:918926
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921740
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921740
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921179
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921179
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920207
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920207
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920766
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920766
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921729
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921729
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921171
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921171
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920240
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920240
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920698
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920698
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921517
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921517
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920697
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920697
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:918831
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:918831
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921211
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921211
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921513
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921513
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920843
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920843
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:918996
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:918996
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921343
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921343
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921634
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921634
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920312
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920312
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920873
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920873
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921823
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921823
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921262
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921262
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920247
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920247
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920815
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920815
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921806
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921806
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921263
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921263
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920347
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920347
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921256
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921256
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921561
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921561
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920755
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920755
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:918882
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:918882
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921391
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921391
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921704
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921704
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920187
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920187
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920858
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920858
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921784
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921784
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920869
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920869
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:919018
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:919018
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921437
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921437
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921282
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921282
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920284
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920284
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920911
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920911
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921698
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921698
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920879
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920879
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920394
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920394
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921210
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921210
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921513
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921513
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920714
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920714
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:918847
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:918847
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921327
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921327
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921193
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921193
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920318
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920318
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920665
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920665
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921470
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921470
+[info]OnChannelClose:4 frame:0
+[info]OnChannelClose:4 frame:0
+连接关闭
+<color=red>[error]</color>UnityEngine.UnityException: get_isActiveAndEnabled can only be called from the main thread.
+Constructors and field initializers will be executed from the loading thread when loading a scene.
+Don't use this function in the constructor or field initializers, instead move initialization code to the Awake or Start function.
+  at (wrapper managed-to-native) UnityEngine.Behaviour.get_isActiveAndEnabled(UnityEngine.Behaviour)
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\EventSystem\UIBehaviour.cs:28 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Graphic.cs:295 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x0003d] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Text.cs:218 
+  at Host.OnClose (System.Int64 _) [0x0001b] in E:\Project\clicker\clickServer\Assets\Scripts\Host.cs:71 
+  at fs.TCPNetAccepter.HanldeCloseConnect (System.Int64 conn_idx) [0x00031] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:177 
+  at fs.TCPNetAccepter.OnConnectClose (System.Int64 conn_idx) [0x0004c] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:160 
+  at fs.TCPServerSocket.CloseClientSocket (System.Int64 conn_idx) [0x00098] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000f9] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>UnityEngine.UnityException: get_isActiveAndEnabled can only be called from the main thread.
+Constructors and field initializers will be executed from the loading thread when loading a scene.
+Don't use this function in the constructor or field initializers, instead move initialization code to the Awake or Start function.
+  at (wrapper managed-to-native) UnityEngine.Behaviour.get_isActiveAndEnabled(UnityEngine.Behaviour)
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\EventSystem\UIBehaviour.cs:28 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Graphic.cs:295 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x0003d] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Text.cs:218 
+  at Host.OnClose (System.Int64 _) [0x0001b] in E:\Project\clicker\clickServer\Assets\Scripts\Host.cs:71 
+  at fs.TCPNetAccepter.HanldeCloseConnect (System.Int64 conn_idx) [0x00031] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:177 
+  at fs.TCPNetAccepter.OnConnectClose (System.Int64 conn_idx) [0x0004c] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:160 
+  at fs.TCPServerSocket.CloseClientSocket (System.Int64 conn_idx) [0x00098] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000f9] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+连接成功
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+接受成功
+接收到监控包:5
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920642
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920642
+连接成功
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+接受成功
+接收到监控包:6
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921540
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921540
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920098
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920098
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920687
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920687
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921616
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921616
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920671
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920671
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:918762
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:918762
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921200
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921200
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921081
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921081
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920154
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920154
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920735
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920735
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921669
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921669
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920987
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920987
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920063
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920063
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920605
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920605
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921521
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921521
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921120
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921120
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:918888
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:918888
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921314
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921314
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921580
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921580
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920717
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920717
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:918926
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:918926
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921340
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921340
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921179
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921179
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920250
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920250
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920766
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920766
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921703
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921703
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921163
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921163
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920232
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920232
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920816
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920816
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921738
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921738
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921080
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921080
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:918789
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:918789
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921264
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921264
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921513
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921513
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920651
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920651
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:918996
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:918996
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921389
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921389
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921201
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921201
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920273
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920273
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920873
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920873
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921792
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921792
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921262
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921262
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920347
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920347
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921321
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921321
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921681
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921681
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920840
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920840
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:918997
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:918997
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921392
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921392
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921561
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921561
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920181
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920181
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920799
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920799
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921729
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921729
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921249
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921249
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920343
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920343
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920756
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920756
+[info]收到协议:1003 frame:0
+[info]收到协议:1003 frame:0
+接受成功
+[info]发送协议:1003 frame:0
+[info]发送协议:1003 frame:0
+[info]收到协议:1003 frame:0
+[info]收到协议:1003 frame:0
+接受成功
+[info]发送协议:1003 frame:0
+[info]发送协议:1003 frame:0
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:921689
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:921689
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:926239
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:926239
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:893767
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:893767
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:894196
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:894196
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:893531
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:893531
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:920795
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:920795
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923300
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923300
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923584
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923584
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922845
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922845
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:922961
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:922961
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923717
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923717
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923022
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923022
+<color=red>[error]</color>读取错误:21147 frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+fs.NetChannel:ParsePacket (System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Scripts/Plugins/Network/channel/NetChannel.cs:80)
+fs.NetChannel:HandleReceive (byte[],int,System.Action`3<long, uint16, fs.ByteArray>) (at Assets/Scripts/Plugins/Network/channel/NetChannel.cs:56)
+fs.TCPNetAccepter:OnMessageReveived (long,byte[],int) (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:145)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>读取错误:21147 frame:0
+<color=red>[error]</color>System.ArgumentOutOfRangeException: Value has to be >= 0.
+Parameter name: sourceIndex
+  at System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) [0x0004e] in <88e4733ac7bc4ae1b496735e6b83bbd3>:0 
+  at fs.ByteArray.Peek (System.Byte[]& buf, System.Int32 len) [0x00037] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.NetChannel.ParsePacket (System.Action`3[T1,T2,T3] callback) [0x00005] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:67 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00016] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:56 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:145 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>System.ArgumentOutOfRangeException: Value has to be >= 0.
+Parameter name: sourceIndex
+  at System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) [0x0004e] in <88e4733ac7bc4ae1b496735e6b83bbd3>:0 
+  at fs.ByteArray.Resize (System.Int32 size) [0x00088] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 start_index, System.Int32 len) [0x00043] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 len) [0x00001] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.WriteBytes (System.Byte[] buf, System.Int32 len) [0x00001] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00008] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:55 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:145 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>System.ArgumentOutOfRangeException: Value has to be >= 0.
+Parameter name: sourceIndex
+  at System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) [0x0004e] in <88e4733ac7bc4ae1b496735e6b83bbd3>:0 
+  at fs.ByteArray.Resize (System.Int32 size) [0x00088] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 start_index, System.Int32 len) [0x00043] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 len) [0x00001] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.WriteBytes (System.Byte[] buf, System.Int32 len) [0x00001] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00008] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:55 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:145 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>System.ArgumentOutOfRangeException: Value has to be >= 0.
+Parameter name: sourceIndex
+  at System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) [0x0004e] in <88e4733ac7bc4ae1b496735e6b83bbd3>:0 
+  at fs.ByteArray.Peek (System.Byte[]& buf, System.Int32 len) [0x00037] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.NetChannel.ParsePacket (System.Action`3[T1,T2,T3] callback) [0x00005] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:67 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00016] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:56 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:145 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+<color=red>[error]</color>System.ArgumentOutOfRangeException: Value has to be >= 0.
+Parameter name: sourceIndex
+  at System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) [0x0004e] in <88e4733ac7bc4ae1b496735e6b83bbd3>:0 
+  at fs.ByteArray.Resize (System.Int32 size) [0x00088] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 start_index, System.Int32 len) [0x00043] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 len) [0x00001] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.WriteBytes (System.Byte[] buf, System.Int32 len) [0x00001] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00008] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:55 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:145 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+<color=red>[error]</color>System.ArgumentOutOfRangeException: Value has to be >= 0.
+Parameter name: sourceIndex
+  at System.Array.Copy (System.Array sourceArray, System.Int32 sourceIndex, System.Array destinationArray, System.Int32 destinationIndex, System.Int32 length) [0x0004e] in <88e4733ac7bc4ae1b496735e6b83bbd3>:0 
+  at fs.ByteArray.Resize (System.Int32 size) [0x00088] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 start_index, System.Int32 len) [0x00043] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.Write (System.Byte[] buf, System.Int32 len) [0x00001] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.ByteArray.WriteBytes (System.Byte[] buf, System.Int32 len) [0x00001] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.NetChannel.HandleReceive (System.Byte[] by, System.Int32 count, System.Action`3[T1,T2,T3] callback) [0x00008] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\channel\NetChannel.cs:55 
+  at fs.TCPNetAccepter.OnMessageReveived (System.Int64 conn_idx, System.Byte[] by, System.Int32 count) [0x00025] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:145 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000a1] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+[info]OnChannelClose:6 frame:0
+[info]OnChannelClose:6 frame:0
+连接关闭
+连接成功
+[info]收到协议:1001 frame:0
+[info]收到协议:1001 frame:0
+发送图片数据:923240
+接受成功
+[info]发送协议:1001 frame:0
+[info]发送协议:1001 frame:0
+发送图片数据:923240
+[info]OnChannelClose:2 frame:0
+[info]OnChannelClose:2 frame:0
+连接关闭
+<color=red>[error]</color>UnityEngine.UnityException: get_isActiveAndEnabled can only be called from the main thread.
+Constructors and field initializers will be executed from the loading thread when loading a scene.
+Don't use this function in the constructor or field initializers, instead move initialization code to the Awake or Start function.
+  at (wrapper managed-to-native) UnityEngine.Behaviour.get_isActiveAndEnabled(UnityEngine.Behaviour)
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\EventSystem\UIBehaviour.cs:28 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Graphic.cs:295 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x0003d] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Text.cs:218 
+  at Host.OnClose (System.Int64 _) [0x0003d] in E:\Project\clicker\clickServer\Assets\Scripts\Host.cs:76 
+  at fs.TCPNetAccepter.HanldeCloseConnect (System.Int64 conn_idx) [0x00031] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:177 
+  at fs.TCPNetAccepter.OnConnectClose (System.Int64 conn_idx) [0x0004c] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:160 
+  at fs.TCPServerSocket.CloseClientSocket (System.Int64 conn_idx) [0x00098] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000f9] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>UnityEngine.UnityException: get_isActiveAndEnabled can only be called from the main thread.
+Constructors and field initializers will be executed from the loading thread when loading a scene.
+Don't use this function in the constructor or field initializers, instead move initialization code to the Awake or Start function.
+  at (wrapper managed-to-native) UnityEngine.Behaviour.get_isActiveAndEnabled(UnityEngine.Behaviour)
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\EventSystem\UIBehaviour.cs:28 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Graphic.cs:295 
+  at UnityEngine.UI.Text.set_text (System.String value) [0x0003d] in E:\Project\clicker\clickServer\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Text.cs:218 
+  at Host.OnClose (System.Int64 _) [0x0003d] in E:\Project\clicker\clickServer\Assets\Scripts\Host.cs:76 
+  at fs.TCPNetAccepter.HanldeCloseConnect (System.Int64 conn_idx) [0x00031] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:177 
+  at fs.TCPNetAccepter.OnConnectClose (System.Int64 conn_idx) [0x0004c] in E:\Project\clicker\clickServer\Assets\Scripts\Plugins\Network\net\TCPNetAccepter.cs:160 
+  at fs.TCPServerSocket.CloseClientSocket (System.Int64 conn_idx) [0x00098] in <5febb1fdf85c48578e4fae6fc5788926>:0 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x000f9] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+连接成功
+[info]收到协议:1002 frame:0
+[info]收到协议:1002 frame:0
+接受成功
+接收到控制包:8
+[info]OnChannelClose:3 frame:0
+[info]OnChannelClose:3 frame:0
+连接关闭
+[info]OnChannelClose:8 frame:0
+[info]OnChannelClose:8 frame:0
+连接关闭
+<color=red>[error]</color>System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+  at System.Net.Sockets.Socket.ThrowIfDisposedAndClosed () [0x0001b] in <111da4cba18442e7addb95bcddc21c3b>:0 
+  at System.Net.Sockets.Socket.EndReceive (System.IAsyncResult asyncResult, System.Net.Sockets.SocketError& errorCode) [0x00000] in <111da4cba18442e7addb95bcddc21c3b>:0 
+  at System.Net.Sockets.Socket.EndReceive (System.IAsyncResult asyncResult) [0x00000] in <111da4cba18442e7addb95bcddc21c3b>:0 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x00072] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+UnityEngine.Debug:LogError (object)
+Debuger:LogError (string)
+Debuger:LogException (System.Exception)
+fs.TCPServerSocket:OnReceive (System.IAsyncResult)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+<color=red>[error]</color>System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+  at System.Net.Sockets.Socket.ThrowIfDisposedAndClosed () [0x0001b] in <111da4cba18442e7addb95bcddc21c3b>:0 
+  at System.Net.Sockets.Socket.EndReceive (System.IAsyncResult asyncResult, System.Net.Sockets.SocketError& errorCode) [0x00000] in <111da4cba18442e7addb95bcddc21c3b>:0 
+  at System.Net.Sockets.Socket.EndReceive (System.IAsyncResult asyncResult) [0x00000] in <111da4cba18442e7addb95bcddc21c3b>:0 
+  at fs.TCPServerSocket.OnReceive (System.IAsyncResult ar) [0x00072] in <5febb1fdf85c48578e4fae6fc5788926>:0  frame:0
+[info]OnChannelClose:8 frame:0
+[info]OnChannelClose:8 frame:0
+连接关闭
+MissingReferenceException: The object of type 'Text' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEngine.EventSystems.UIBehaviour.IsActive () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/UIBehaviour.cs:28)
+UnityEngine.UI.Graphic.SetVerticesDirty () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Graphic.cs:295)
+UnityEngine.UI.Text.set_text (System.String value) (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Text.cs:218)
+Host.OnClose (System.Int64 _) (at Assets/Scripts/Host.cs:76)
+fs.TCPNetAccepter.HanldeCloseConnect (System.Int64 conn_idx) (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:177)
+fs.TCPNetAccepter.OnConnectClose (System.Int64 conn_idx) (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:160)
+fs.TCPServerSocket.Close () (at <5febb1fdf85c48578e4fae6fc5788926>:0)
+fs.TCPNetAccepter.Close () (at Assets/Scripts/Plugins/Network/net/TCPNetAccepter.cs:43)
+Host.OnDestroy () (at Assets/Scripts/Host.cs:89)
+
